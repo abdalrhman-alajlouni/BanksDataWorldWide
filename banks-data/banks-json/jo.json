@@ -1,0 +1,530 @@
+{
+	
+	"jo": {
+		
+		"AL RAJHI BANKING AND INVESTMENT CORP": {
+			"info": {
+				"short_name": "alrajhibank",
+				"ToShowName": "Al Rajhi Bank",
+				"official_name": "AL RAJHI BANKING AND INVESTMENT CORP",
+				"country": "jo",
+				"swift_code": "RJHIJOAM"
+			},
+			"contact": {
+				"website": "https://alrajhibank.com.jo",
+				"customer_service": "+96265633030",
+				"email": "info@alrajhibank.com.jo"
+			},
+			"brand": {
+				"logo": "jo/Al-RajhiBank/logo.png",
+				"icon": "jo/Al-RajhiBank/icon.png",
+				"brand_main_color": "#221AFB",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#221AFB",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"RAFIDAIN BANK": {
+			"info": {
+				"short_name": "rafidain",
+				"ToShowName": "Rafidain Bank",
+				"official_name": "RAFIDAIN BANK",
+				"country": "jo",
+				"swift_code": "RAFBJOAM"
+			},
+			"contact": {
+				"website": "https://rafidainamman.com",
+				"customer_service": "+96265802380 ",
+				"email": "info@rafidainamman.com"
+			},
+			"brand": {
+				"logo": "jo/Rafidain/logo.png",
+				"icon": "jo/Rafidain/icon.png",
+				"brand_main_color": "#05750A",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#05750A",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"JORDAN AHLI BANK": {
+			"info": {
+				"short_name": "ahli",
+				"ToShowName": "ahli Bank",
+				"official_name": "JORDAN AHLI BANK",
+				"country": "jo",
+				"swift_code": "JONBJOAX"
+			},
+			"contact": {
+				"website": "https://ahli.com",
+				"customer_service": "+96265007777",
+				"email": "info@ahli.com"
+			},
+			"brand": {
+				"logo": "jo/ahli/logo.png",
+				"icon": "jo/ahli/icon.png",
+				"brand_main_color": "#17999F",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#393839",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"ARAB JORDAN INVESTMENT BANK": {
+			"info": {
+				"short_name": "ajib",
+				"ToShowName": "AJIB - Arab Jordan Investment Bank",
+				"official_name": "ARAB JORDAN INVESTMENT BANK",
+				"country": "jo",
+				"swift_code": "AJIBJOAX"
+			},
+			"contact": {
+				"website": "https://ajib.com",
+				"customer_service": "+96265003005",
+				"email": ""
+			},
+			"brand": {
+				"logo": "jo/ajib/logo.png",
+				"icon": "jo/ajib/icon.png",
+				"brand_main_color": "#013765",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#013765",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		
+		"ARAB BANKING CORPORATION (JORDAN)": {
+			"info": {
+				"short_name": "abc",
+				"ToShowName": "Bank ABC",
+				"official_name": "ARAB BANKING CORPORATION (JORDAN)",
+				"country": "jo",
+				"swift_code": "ABCJJOAM"
+			},
+			"contact": {
+				"website": "https://bank-abc.com",
+				"customer_service": "+96265633500",
+				"email": "info@bank-abc.com"
+			},
+			"brand": {
+				"logo": "jo/arab-banking-corporation/logo.png",
+				"icon": "jo/arab-banking-corporation/icon.png",
+				"brand_main_color": "#5fd0df",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#7C7B7C",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		
+		"ARAB BANK PLC": {
+			"info": {
+				"short_name": "arabbank",
+				"ToShowName": "Arab Bank",
+				"official_name": "ARAB BANK PLC",
+				"country": "jo",
+				"swift_code": "ARABJOAX"
+			},
+			"contact": {
+				"website": "https://arabbank.jo",
+				"customer_service": "+96264600900",
+				"email": "customer.care@arabbank.com.jo"
+			},
+			"brand": {
+				"logo": "jo/arabi/logo.png",
+				"icon": "jo/arabi/icon.png",
+				"brand_main_color": "#55A8E5",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#55A8E5",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"BANK OF JORDAN PLC": {
+			"info": {
+				"short_name": "bankofjordan",
+				"ToShowName": "Bank of Jordan",
+				"official_name": "BANK OF JORDAN PLC",
+				"country": "jo",
+				"swift_code": "BJORJOAX"
+			},
+			"contact": {
+				"website": "https://bankofjordan.com",
+				"customer_service": "+96265807777",
+				"email": ""
+			},
+			"brand": {
+				"logo": "jo/bankofjordan/logo.png",
+				"icon": "jo/bankofjordan/icon.png",
+				"brand_main_color": "#00263E",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#061937",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		
+		"BLOM BANK S.A.L.": {
+			"info": {
+				"short_name": "blombank",
+				"ToShowName": "Blom Bank",
+				"official_name": "BLOM BANK S.A.L.",
+				"country": "jo",
+				"swift_code": "BLOMJOAM"
+			},
+			"contact": {
+				"website": "https://blom.com.jo",
+				"customer_service": "+96265001222",
+				"email": "customercare@blom.com.jo"
+			},
+			"brand": {
+				"logo": "jo/blombank/logo.png",
+				"icon": "jo/blombank/icon.png",
+				"brand_main_color": "#004285",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#092847",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		
+		"CAIRO AMMAN BANK PLC": {
+			"info": {
+				"short_name": "cab",
+				"ToShowName": "CAB - Cairo Amman Bank",
+				"official_name": "CAIRO AMMAN BANK PLC",
+				"country": "jo",
+				"swift_code": "CAABJOAM"
+			},
+			"contact": {
+				"website": "https://cab.jo",
+				"customer_service": "+96265007700",
+				"email": "info@cab.jo"
+			},
+			"brand": {
+				"logo": "jo/cairo/logo.png",
+				"icon": "jo/cairo/icon.png",
+				"brand_main_color": "#007934",
+				"brand_main_text_color": {
+					"dark": "#007934",
+					"light": "#007934"
+				},
+				"card_color": "#018643",
+				"card_color_gradient": "#01572b",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		
+		
+		"CAPITAL BANK OF JORDAN": {
+			"info": {
+				"short_name": "capitalbank",
+				"ToShowName": "Capital Bank",
+				"official_name": "CAPITAL BANK OF JORDAN",
+				"country": "jo",
+				"swift_code": "EFBKJOAM"
+			},
+			"contact": {
+				"website": "https://capitalbank.jo",
+				"customer_service": "+96265100220",
+				"email": "info@capitalbank.jo"
+			},
+			"brand": {
+				"logo": "jo/capitalbank/logo.png",
+				"icon": "jo/capitalbank/icon.png",
+				"brand_main_color": "#263743",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#263743"
+				},
+				"card_color": "#828991",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		
+		"CITIBANK N.A.": {
+			"info": {
+				"short_name": "citibank",
+				"ToShowName": "Citibank",
+				"official_name": "CITIBANK N.A.",
+				"country": "jo",
+				"swift_code": "CITIJOAX"
+			},
+			"contact": {
+				"website": "https://citibank.com",
+				"customer_service": "",
+				"email": ""
+			},
+			"brand": {
+				"logo": "jo/citibank/logo.png",
+				"icon": "jo/citibank/icon.png",
+				"brand_main_color": "#056DAE",
+				"brand_main_text_color": {
+					"dark": "#056DAE",
+					"light": "#056DAE"
+				},
+				"card_color": "#155395",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		
+		"UNION BANK PLC. CO": {
+			"info": {
+				"short_name": "etihad",
+				"ToShowName": "Bank al Etihad",
+				"official_name": "UNION BANK PLC. CO",
+				"country": "jo",
+				"swift_code": "UBSIJOAX"
+			},
+			"contact": {
+				"website": "https://bankaletihad.com",
+				"customer_service": "+96265600444",
+				"email": "info@bankaletihad.com"
+			},
+			"brand": {
+				"logo": "jo/etihad/logo.png",
+				"icon": "jo/etihad/icon-silver.png",
+				"brand_main_color": "#f98232",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#c1431c",
+				"card_color_gradient": "#c1431c",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		
+		"HOUSING BANK FOR TRADE AND FINANCE": {
+			"info": {
+				"short_name": "hbtf",
+				"ToShowName": "HBTF - The Housing Bank for Trade and Finance",
+				"official_name": "HOUSING BANK FOR TRADE AND FINANCE",
+				"country": "jo",
+				"swift_code": "HBHOJOAX"
+			},
+			"contact": {
+				"website": "https://hbtf.com",
+				"customer_service": "+96265200400",
+				"email": "info@hbtf.com.jo"
+			},
+			"brand": {
+				"logo": "jo/housing/logo.png",
+				"icon": "jo/housing/icon.png",
+				"brand_main_color": "#005295",
+				"brand_main_text_color": {
+					"dark": "#C8B18B",
+					"light": "#C8B18B"
+				},
+				"card_color": "#194989",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"INVESTBANK": {
+			"info": {
+				"short_name": "investbank",
+				"ToShowName": "INVESTBANK",
+				"official_name": "INVESTBANK",
+				"country": "jo",
+				"swift_code": "JIFBJOAM"
+			},
+			"contact": {
+				"website": "https://investbank.jo",
+				"customer_service": "+96265001515",
+				"email": "info@investbank.jo"
+			},
+			"brand": {
+				"logo": "jo/investbank/logo.png",
+				"icon": "jo/investbank/icon.png",
+				"brand_main_color": "#B38806",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#DDD4AC",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"JORDAN ISLAMIC BANK": {
+			"info": {
+				"short_name": "jordanislamicbank",
+				"ToShowName": "Jordan Islamic Bank",
+				"official_name": "JORDAN ISLAMIC BANK",
+				"country": "jo",
+				"swift_code": "JIBAJOAM"
+			},
+			"contact": {
+				"website": "https://jordanislamicbank.com",
+				"customer_service": "+96265680001",
+				"email": "jib@islamicbank.com.jo"
+			},
+			"brand": {
+				"logo": "jo/islamic/logo.png",
+				"icon": "jo/islamic/icon.png",
+				"brand_main_color": "#F15A22",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#4A4F54"
+				},
+				"card_color": "#F68A1E",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"ISLAMIC INTERNATIONAL ARAB BANK": {
+			"info": {
+				"short_name": "iiabank",
+				"ToShowName": "Islamic International Arab Bank",
+				"official_name": "ISLAMIC INTERNATIONAL ARAB BANK",
+				"country": "jo",
+				"swift_code": "IIBAJOAM"
+			},
+			"contact": {
+				"website": "https://iiabank.com.jo",
+				"customer_service": "+96265003300",
+				"email": "info@iiabank.com.jo"
+			},
+			"brand": {
+				"logo": "jo/islamicarabic/logo.png",
+				"icon": "jo/islamicarabic/icon.png",
+				"brand_main_color": "#55A8E5",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#55A8E5"
+				},
+				"card_color": "#E7E7E7",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#000000"
+			}
+		},
+		
+		"JORDAN KUWAIT BANK": {
+			"info": {
+				"short_name": "jkb",
+				"ToShowName": "JKB - Jordan Kuwait Bank",
+				"official_name": "JORDAN KUWAIT BANK",
+				"country": "jo",
+				"swift_code": "JKBAJOAM"
+			},
+			"contact": {
+				"website": "https://jkb.com",
+				"customer_service": "+96265200999",
+				"email": "info@jkbank.com.jo"
+			},
+			"brand": {
+				"logo": "jo/jordankuwait/logo.png",
+				"icon": "jo/jordankuwait/icon.png",
+				"brand_main_color": "#003876",
+				"brand_main_text_color": {
+					"dark": "#FBCF3D",
+					"light": "#FBCF3D"
+				},
+				"card_color": "#FBCF3D",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#000000"
+			}
+		},
+		
+		"JORDAN COMMERCIAL BANK": {
+			"info": {
+				"short_name": "jcbank",
+				"ToShowName": "Jordan Commercial Bank",
+				"official_name": "JORDAN COMMERCIAL BANK",
+				"country": "jo",
+				"swift_code": "JGBAJOAM"
+			},
+			"contact": {
+				"website": "https://jcbank.com.jo",
+				"customer_service": "+96265209000",
+				"email": "jcb@jcbank.com.jo"
+			},
+			"brand": {
+				"logo": "jo/jordancommercial/logo.png",
+				"icon": "jo/jordancommercial/icon.png",
+				"brand_main_color": "#0F4786",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#0F4786"
+				},
+				"card_color": "#397ABC",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"SAFWA ISLAMIC BANK": {
+			"info": {
+				"short_name": "safwa",
+				"ToShowName": "Safwa Islamic Bank",
+				"official_name": "SAFWA ISLAMIC BANK",
+				"country": "jo",
+			"swift_code": "JDIBJOAM"
+			},
+			"contact": {
+				"website": "https://safwabank.com",
+				"customer_service": "+96264602100",
+				"email": ""
+			},
+			"brand": {
+				"logo": "jo/safwa/logo.png",
+				"icon": "jo/safwa/icon.png",
+				"brand_main_color": "#23AE49",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#23AE49"
+				},
+				"card_color": "#2BB04A",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		}
+		
+		
+		
+	}
+}				

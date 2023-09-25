@@ -1,0 +1,33 @@
+{
+    "us": {
+		
+		"BANK OF AMERICA, N.A.": {
+			"info": {
+				"short_name": "bankofamerica",
+				"ToShowName": "Bank of America",
+				"official_name": "BANK OF AMERICA, N.A.",
+				"country": "us",
+				"swift_code": "BOFAUS3M"
+			},
+			"contact": {
+				"website": "https://locators.bankofamerica.com/",
+				"customer_service": "00 1 315-724-4022",
+				"email": ""
+			},
+			"brand": {
+				"logo": "us/BANKOFAMERICA,N.A./logo.png",
+				"icon": "us/BANKOFAMERICA,N.A./icon.png",
+				"brand_main_color": "#850C21",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#850C21",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		}
+		
+		
+	}
+}

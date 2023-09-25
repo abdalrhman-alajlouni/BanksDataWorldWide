@@ -1,0 +1,346 @@
+{
+	
+	"sa": {
+		
+		"AL INMA BANK": {
+			"info": {
+				"short_name": "alinma",
+				"ToShowName": "Al Inma Bank",
+				"official_name": "AL INMA BANK",
+				"country": "sa",
+				"swift_code": "INMASARI"
+			},
+			"contact": {
+				"website": "https://alinma.com",
+				"customer_service": "+966 920028000",
+				"email": "WA@Alinma.com"
+			},
+			"brand": {
+				"logo": "sa/Alinma/logo.png",
+				"icon": "sa/Alinma/icon-white.png",
+				"brand_main_color": "#400700",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#59170C",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"AL RAJHI BANK": {
+			"info": {
+				"short_name": "rajhi",
+				"ToShowName": "Al Rajhi Bank",
+				"official_name": "AL RAJHI BANK",
+				"country": "sa",
+				"swift_code": "RJHISARI"
+			},
+			"contact": {
+				"website": "https://alrajhibank.com.sa",
+				"customer_service": "+966 114603333",
+				"email": "customersupport@alrajhibank.com.my"
+			},
+			"brand": {
+				"logo": "sa/Al-RajhiBank/logo.png",
+				"icon": "sa/Al-RajhiBank/icon.png",
+				"brand_main_color": "#221AFB",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#221AFB",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"ARAB NATIONAL BANK": {
+			"info": {
+				"short_name": "anb",
+				"ToShowName": "ANB - Arab National Bank",
+				"official_name": "ARAB NATIONAL BANK",
+				"country": "sa",
+				"swift_code": "ARNBSARI"
+			},
+			"contact": {
+				"website": "https://anb.com.sa",
+				"customer_service": "",
+				"email": "CustomerCare@anb.com.sa"
+			},
+			"brand": {
+				"logo": "sa/anb/logo.png",
+				"icon": "sa/anb/icon.png",
+				"brand_main_color": "#0072DA",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#0072DA",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"BANK AL BILAD": {
+			"info": {
+				"short_name": "albilad",
+				"ToShowName": "Bank Albilad",
+				"official_name": "BANK AL BILAD",
+				"country": "sa",
+				"swift_code": "ALBISARI"
+			},
+			"contact": {
+				"website": "https://bankalbilad.com",
+				"customer_service": "+966 920001002",
+				"email": "Customercare@bankalbilad.com"
+			},
+			"brand": {
+				"logo": "sa/Bank_Albilad/logo.png",
+				"icon": "sa/Bank_Albilad/icon.png",
+				"brand_main_color": "#7B6F67",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#F5F4F2",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#000000"
+			}
+		},
+		
+		"BANK AL-JAZIRA": {
+			"info": {
+				"short_name": "aljazira",
+				"ToShowName": "Bank Aljazira",
+				"official_name": "BANK AL-JAZIRA",
+				"country": "sa",
+				"swift_code": "BJAZSAJE"
+			},
+			"contact": {
+				"website": "https://bankaljazira.com",
+				"customer_service": "",
+				"email": "Call_Center_Supervisor@bankaljazira.com"
+			},
+			"brand": {
+				"logo": "sa/Bank_Aljazira/logo.png",
+				"icon": "sa/Bank_Aljazira/icon.png",
+				"brand_main_color": "#0E416B",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#0E416B",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"BANQUE SAUDI FRANSI": {
+			"info": {
+				"short_name": "alfransi",
+				"ToShowName": "Banque Saudi Fransi",
+				"official_name": "BANQUE SAUDI FRANSI",
+				"country": "sa",
+				"swift_code": "BSFRSARI"
+			},
+			"contact": {
+				"website": "https://alfransi.com.sa",
+				"customer_service": "+966 920000576",
+				"email": "CustomerService@allianzsf.com.sa"
+			},
+			"brand": {
+				"logo": "sa/Banque_Saudi_Fransi/logo.png",
+				"icon": "sa/Banque_Saudi_Fransi/icon.png",
+				"brand_main_color": "#0F4E56",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#014577",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"RIYAD BANK": {
+			"info": {
+				"short_name": "riyadbank",
+				"ToShowName": "Riyad Bank",
+				"official_name": "RIYAD BANK",
+				"country": "sa",
+				"swift_code": "RIBLSARI"
+			},
+			"contact": {
+				"website": "https://riyadbank.com",
+				"customer_service": "+966 114013030",
+				"email": "customercare@riyadbank.com"
+			},
+			"brand": {
+				"logo": "sa/Riyad/logo.png",
+				"icon": "sa/Riyad/icon.png",
+				"brand_main_color": "#230871",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#EFF1FE",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#000000"
+			}
+		},
+		"SAUDI BRITISH BANK, THE": {
+			"info": {
+				"short_name": "sab",
+				"ToShowName": "SAB - Saudi Awwal Bank",
+				"official_name": "SAUDI BRITISH BANK, THE",
+				"country": "sa",
+				"swift_code": "SABBSARI"
+			},
+			"contact": {
+				"website": "https://sabb.com",
+				"customer_service": "+966 114062800",
+				"email": ""
+			},
+			"brand": {
+				"logo": "sa/sab/logo.png",
+				"icon": "sa/sab/icon.png",
+				"brand_main_color": "#D22630",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#D22630",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"SAMBA FINANCIAL GROUP": {
+			"info": {
+				"short_name": "samba",
+				"ToShowName": "Samba Bank",
+				"official_name": "SAMBA FINANCIAL GROUP",
+				"country": "sa",
+				"swift_code": "SAMBSARI"
+			},
+			"contact": {
+				"website": "https://samba.com.pk",
+				"customer_service": "+966 118382000",
+				"email": ""
+			},
+			"brand": {
+				"logo": "sa/Samba/logo.png",
+				"icon": "sa/Samba/icon.png",
+				"brand_main_color": "#0EA6E5",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#0EA6E5",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"SAUDI HOLLANDI BANK": {
+			"info": {
+				"short_name": "samba",
+				"ToShowName": "Saudi Hollandi/Alawwal Bank",
+				"official_name": "SAUDI HOLLANDI BANK",
+				"country": "sa",
+				"swift_code": "AAALSARI"
+			},
+			"contact": {
+				"website": "https://shb.com.sa",
+				"customer_service": "+966 114630584",
+				"email": ""
+			},
+			"brand": {
+				"logo": "sa/Saudi_Hollandi/logo.png",
+				"icon": "sa/Saudi_Hollandi/icon.png",
+				"brand_main_color": "#00AB96",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#424348",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"NATIONAL COMMERCIAL BANK, THE": {
+			"info": {
+				"short_name": "snb",
+				"ToShowName": "SNB - Saudi National Bank",
+				"official_name": "NATIONAL COMMERCIAL BANK, THE",
+				"country": "sa",
+				"swift_code": "NCBKSAJE"
+			},
+			"contact": {
+				"website": "https://shb.com.sa",
+				"customer_service": "",
+				"email": "contactus@alahli.com"
+			},
+			"brand": {
+				"logo": "sa/SNB/logo.png",
+				"icon": "sa/SNB/icon.png",
+				"brand_main_color": "#204C3D",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#204C3D",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"SAUDI INVESTMENT BANK, THE": {
+			"info": {
+				"short_name": "saib",
+				"ToShowName": "SAIB - The Saudi Investment Bank",
+				"official_name": "SAUDI INVESTMENT BANK, THE",
+				"country": "sa",
+				"swift_code": "SIBCSARI"
+			},
+			"contact": {
+				"website": "http://saib.com.sa",
+				"customer_service": "",
+				"email": ""
+			},
+			"brand": {
+				"logo": "sa/The_Saudi_Investment_Bank/logo.png",
+				"icon": "sa/The_Saudi_Investment_Bank/icon.png",
+				"brand_main_color": "#FFCD00",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#FFCD00",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#000000"
+			}
+		},
+		"STC PAY": {
+			"info": {
+				"short_name": "stc",
+				"ToShowName": "STC Pay",
+				"official_name": "STC PAY",
+				"country": "sa",
+				"swift_code": "STCOSARI"
+			},
+			"contact": {
+				"website": "https://stcpay.com.sa",
+				"customer_service": "+966 920011444",
+				"email": "info@stcpay.com.sa"
+			},
+			"brand": {
+				"logo": "sa/STC/logo.png",
+				"icon": "sa/STC/icon.png",
+				"brand_main_color": "#4F008C",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#4F008C",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#03BD8C"
+			}
+		}
+		
+	}
+}													

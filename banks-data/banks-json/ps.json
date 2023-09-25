@@ -1,0 +1,217 @@
+{
+	
+	"ps": {
+		
+		"JORDAN AHLI BANK-PLC FOREIGN PUBLIC COMPANY": {
+			"info": {
+				"short_name": "ahli",
+				"ToShowName": "Al Ahli Bank",
+				"official_name": "JORDAN AHLI BANK-PLC FOREIGN PUBLIC COMPANY",
+				"country": "ps",
+				"swift_code": "JONBPS22"
+			},
+			"contact": {
+				"website": "https://ahli.com.ps",
+				"customer_service": "+970 1700100222",
+				"email": "info@ahlibank.com.ps"
+			},
+			"brand": {
+				"logo": "ps/ahli/logo.png",
+				"icon": "ps/ahli/icon.png",
+				"brand_main_color": "#16999E",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#035768",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"ARAB BANK PLC": {
+			"info": {
+				"short_name": "arabbank",
+				"ToShowName": "Arab Bank",
+				"official_name": "ARAB BANK PLC",
+				"country": "ps",
+				"swift_code": "ARABPS22"
+			},
+			"contact": {
+				"website": "https://arabbank.ps",
+				"customer_service": "+970 22953333",
+				"email": "Customer.Care5@arabbank.com.jo"
+			},
+			"brand": {
+				"logo": "ps/arabi/logo.png",
+				"icon": "ps/arabi/icon.png",
+				"brand_main_color": "#336197",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#336197",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"BANK OF JORDAN PLC": {
+			"info": {
+				"short_name": "bankofjordan",
+				"ToShowName": "Arab Bank",
+				"official_name": "BANK OF JORDAN PLC",
+				"country": "ps",
+				"swift_code": "BJORPS22"
+			},
+			"contact": {
+				"website": "https://bankofjordan.com.ps",
+				"customer_service": "+970 22411466",
+				"email": "boj@bankofjordan.com.ps"
+			},
+			"brand": {
+				"logo": "ps/bankofjordan/logo.png",
+				"icon": "ps/bankofjordan/icon.png",
+				"brand_main_color": "#00263E",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#051734",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"BANK OF PALESTINE PLC": {
+			"info": {
+				"short_name": "bop",
+				"ToShowName": "BOP - Bank of Palestine",
+				"official_name": "BANK OF PALESTINE PLC",
+				"country": "ps",
+				"swift_code": "PALSPS22"
+			},
+			"contact": {
+				"website": "https://bop.ps",
+				"customer_service": "+970 22946420",
+				"email": "complaints@bankofpalestine.com"
+			},
+			"brand": {
+				"logo": "ps/BankofPalestine/logo.png",
+				"icon": "ps/BankofPalestine/icon.png",
+				"brand_main_color": "#9E1153",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#9E1153",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"PALESTINE INVESTMENT BANK": {
+			"info": {
+				"short_name": "pib",
+				"ToShowName": "PIB - Palestine Investment Bank",
+				"official_name": "PALESTINE INVESTMENT BANK",
+				"country": "ps",
+				"swift_code": "PINVPS22"
+			},
+			"contact": {
+				"website": "https://pibbank.com",
+				"customer_service": "+970 22943500",
+				"email": "Info@pibc.ps"
+			},
+			"brand": {
+				"logo": "ps/PalestineInvestmentBank/logo.png",
+				"icon": "ps/PalestineInvestmentBank/icon.png",
+				"brand_main_color": "#F47920",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#4C4847",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"PALESTINE ISLAMIC BANK": {
+			"info": {
+				"short_name": "islamicbank",
+				"ToShowName": "Palestine Islamic Bank",
+				"official_name": "PALESTINE ISLAMIC BANK",
+				"country": "ps",
+				"swift_code": "PIBCPS22"
+			},
+			"contact": {
+				"website": "https://islamicbank.ps",
+				"customer_service": "+970 22967888",
+				"email": "service@islamicbank.ps"
+			},
+			"brand": {
+				"logo": "ps/PalestineIslamicBank/logo.png",
+				"icon": "ps/PalestineIslamicBank/icon.png",
+				"brand_main_color": "#FFCF10",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#EC9C07",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"SAFA BANK BIC": {
+			"info": {
+				"short_name": "safabank",
+				"ToShowName": "Safa Bank",
+				"official_name": "SAFA BANK BIC",
+				"country": "ps",
+				"swift_code": "SAFKPS22"
+			},
+			"contact": {
+				"website": "https://safabank.ps",
+				"customer_service": "+970 22941333",
+				"email": ""
+			},
+			"brand": {
+				"logo": "ps/safabank/logo.png",
+				"icon": "ps/safabank/icon.png",
+				"brand_main_color": "#E9E8E4",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#E9E8E4",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#000000"
+			}
+		},
+		"THE NATIONAL BANK PLC": {
+			"info": {
+				"short_name": "tnb",
+				"ToShowName": "TNB - The National Bank",
+				"official_name": "THE NATIONAL BANK PLC",
+				"country": "ps",
+				"swift_code": "TNBCPS22"
+			},
+			"contact": {
+				"website": "https://tnb.ps",
+				"customer_service": "",
+				"email": "digitalsupport@tnb.ps"
+			},
+			"brand": {
+				"logo": "ps/TNP/logo.png",
+				"icon": "ps/TNP/icon.png",
+				"brand_main_color": "#EFEFEF",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#C0D4E7",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#000000"
+			}
+		}
+		
+	}
+}												

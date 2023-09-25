@@ -1,0 +1,30 @@
+{
+    "gb": {
+		"BARCLAYS BANK PLC": {
+			"info": {
+				"short_name": "barclays",
+				"ToShowName": "Barclays Bank",
+				"official_name": "BARCLAYS BANK PLC",
+				"country": "gb",
+				"swift_code": "BARCGB22"
+			},
+			"contact": {
+				"website": "https://barclays.co.uk",
+				"customer_service": "+44 0800 282 390",
+				"email": ""
+			},
+			"brand": {
+				"logo": "gb/BarclaysBank/logo.png",
+				"icon": "gb/BarclaysBank/icon.png",
+				"brand_main_color": "#00AEEF",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#00AEEF",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		}	
+	}
+}

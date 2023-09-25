@@ -1,0 +1,378 @@
+{
+	
+	"qa": {
+		
+		"BNP PARIBAS, DOHA": {
+			"info": {
+				"short_name": "BNPParibas",
+				"ToShowName": "Bank BNP Paribas",
+				"official_name": "BNP PARIBAS, DOHA",
+				"country": "qa",
+				"swift_code": "BNPAQAQA"
+			},
+			"contact": {
+				"website": "https://mea.bnpparibas.com",
+				"customer_service": "+974 44537115",
+				"email": "csd.qatar@bnpparibas.com"
+			},
+			"brand": {
+				"logo": "qa/BNPParibas/logo.png",
+				"icon": "qa/BNPParibas/icon.png",
+				"brand_main_color": "#12995F",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#FFFFFF",
+				"card_color_gradient": "#737373",
+				"card_text_color": "#333030"
+			}
+		},
+		
+		
+		"BANK SADERAT IRAN": {
+			"info": {
+				"short_name": "bsi",
+				"ToShowName": "BSI - Bank Saderat Iran",
+				"official_name": "BANK SADERAT IRAN",
+				"country": "qa",
+				"swift_code": "BSIRQAQA"
+			},
+			"contact": {
+				"website": "https://bsi.com.qa",
+				"customer_service": "+974 44414646",
+				"email": ""
+			},
+			"brand": {
+				"logo": "qa/BankSaderatIran/logo.png",
+				"icon": "qa/BankSaderatIran/icon.png",
+				"brand_main_color": "#29166F",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#29166F"
+				},
+				"card_color": "#29166F",
+				"card_color_gradient": "#ffffff",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		
+		"THE COMMERCIAL BANK (Q.S.C)": {
+			"info": {
+				"short_name": "cbq",
+				"ToShowName": "CBQ - Commercial Bank Qatar",
+				"official_name": "THE COMMERCIAL BANK (Q.S.C)",
+				"country": "qa",
+				"swift_code": "CBQAQAQA"
+			},
+			"contact": {
+				"website": "https://cbq.qa",
+				"customer_service": "",
+				"email": ""
+			},
+			"brand": {
+				"logo": "qa/CommercialBankofQatar/logo.png",
+				"icon": "qa/CommercialBankofQatar/icon.png",
+				"brand_main_color": "#861F41",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#861F41"
+				},
+				"card_color": "#A40047",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		
+		"Doha Bank": {
+			"info": {
+				"short_name": "dohabank",
+				"ToShowName": "Doha Bank",
+				"official_name": "Doha Bank",
+				"country": "qa",
+				"swift_code": "DOHBQAQA"
+			},
+			"contact": {
+				"website": "https://qa.dohabank.com",
+				"customer_service": "+974 44456000",
+				"email": ""
+			},
+			"brand": {
+				"logo": "qa/DohaBank/logo.png",
+				"icon": "qa/DohaBank/icon.png",
+				"brand_main_color": "#0C72C0",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#0C72C0"
+				},
+				"card_color": "#7A4C1C",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		
+		
+		"Dukhan Bank": {
+			"info": {
+				"short_name": "dukhanbank",
+				"ToShowName": "Dukhan Bank",
+				"official_name": "Dukhan Bank",
+				"country": "qa",
+				"swift_code": "DUKHQAQA"
+			},
+			"contact": {
+				"website": "https://dukhanbank.com",
+				"customer_service": "+974 44100888",
+				"email": "GroupCommunications@dukhanbank.com"
+			},
+			"brand": {
+				"logo": "qa/Dukhan/logo.png",
+				"icon": "qa/Dukhan/icon.png",
+				"brand_main_color": "#24366F",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#39AE4A"
+				},
+				"card_color": "#494949",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		
+		
+		"HSBC BANK MIDDLE EAST LIMITED": {
+			"info": {
+				"short_name": "hsbc",
+				"ToShowName": "HSBC",
+				"official_name": "HSBC BANK MIDDLE EAST LIMITED",
+				"country": "qa",
+				"swift_code": "BBMEQAQX"
+			},
+			"contact": {
+				"website": "https://www.hsbc.com.qa",
+				"customer_service": "+974 44382200",
+				"email": ""
+			},
+			"brand": {
+				"logo": "qa/HSBC/logo.png",
+				"icon": "qa/HSBC/icon.png",
+				"brand_main_color": "#DB0011",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#404040"
+				},
+				"card_color": "#DA0011",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		
+		
+		"MASHREQ BANK": {
+			"info": {
+				"short_name": "mashreqbank",
+				"ToShowName": "Mashreq",
+				"official_name": "MASHREQ BANK",
+				"country": "qa",
+				"swift_code": "MSHQQAQA"
+			},
+			"contact": {
+				"website": "https://mashreqbank.com",
+				"customer_service": "",
+				"email": ""
+			},
+			"brand": {
+				"logo": "qa/Mashreq/logo.png",
+				"icon": "qa/Mashreq/icon.png",
+				"brand_main_color": "#FF5E00",
+				"brand_main_text_color": {
+					"dark": "#D3D3D3",
+					"light": "#4C4C4C"
+				},
+				"card_color": "#FF5E00",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		
+		
+		"Qatar National Bank": {
+			"info": {
+				"short_name": "qnb",
+				"ToShowName": "QNB - Qatar National Bank",
+				"official_name": "Qatar National Bank",
+				"country": "qa",
+				"swift_code": "QNBAQAQA"
+			},
+			"contact": {
+				"website": "https://qnb.com",
+				"customer_service": "+974 44407777",
+				"email": ""
+			},
+			"brand": {
+				"logo": "qa/QNBGroup/logo.png",
+				"icon": "qa/QNBGroup/icon.png",
+				"brand_main_color": "#BE1566",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#BE1566"
+				},
+				"card_color": "#ffffff",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#001B59"
+			}
+		},
+		
+		
+		
+		"QATAR DEVELOPMENT BANK": {
+			"info": {
+				"short_name": "qdb",
+				"ToShowName": "QDB - Qatar Development Bank",
+				"official_name": "QATAR DEVELOPMENT BANK",
+				"country": "qa",
+				"swift_code": "QIDBQAQA"
+			},
+			"contact": {
+				"website": "https://qdb.qa",
+				"customer_service": "",
+				"email": ""
+			},
+			"brand": {
+				"logo": "qa/QatarDevelopmentBank/logo.png",
+				"icon": "qa/QatarDevelopmentBank/icon.png",
+				"brand_main_color": "#1A2155",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#6461B8"
+				},
+				"card_color": "#ffffff",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#1A2155"
+			}
+		},
+		
+		
+		
+		"Qatar International Islamic Bank": {
+			"info": {
+				"short_name": "qiib",
+				"ToShowName": "QIIB - Qatar International Islamic Bank",
+				"official_name": "Qatar International Islamic Bank",
+				"country": "qa",
+				"swift_code": "QIIBQAQA"
+			},
+			"contact": {
+				"website": "https://qiib.com.qa",
+				"customer_service": "+974 44840000",
+				"email": "Info@qiib.com.qa"
+			},
+			"brand": {
+				"logo": "qa/QatarInternationalIslamicBank/logo.png",
+				"icon": "qa/QatarInternationalIslamicBank/icon.png",
+				"brand_main_color": "#D12030",
+				"brand_main_text_color": {
+					"dark": "#D12030",
+					"light": "#D12030"
+				},
+				"card_color": "#D12030",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		
+		
+		"Qatar Islamic Bank": {
+			"info": {
+				"short_name": "qib",
+				"ToShowName": "QIB - Qatar Islamic Bank",
+				"official_name": "Qatar Islamic Bank",
+				"country": "qa",
+				"swift_code": "QISBQAQA"
+			},
+			"contact": {
+				"website": "https://qib.com.qa",
+				"customer_service": "+974 44020888",
+				"email": "info@qib.com.qa"
+			},
+			"brand": {
+				"logo": "qa/QatarIslamicBank/logo.png",
+				"icon": "qa/QatarIslamicBank/icon.png",
+				"brand_main_color": "#1376B1",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#1376B1"
+				},
+				"card_color": "#0060AA",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		
+		
+		"Standard Chartered Bank": {
+			"info": {
+				"short_name": "sc",
+				"ToShowName": "Standard Chartered Bank",
+				"official_name": "Standard Chartered Bank",
+				"country": "qa",
+				"swift_code": "SCBLQAQX"
+			},
+			"contact": {
+				"website": "https://sc.com/qa/",
+				"customer_service": "+974 44658535",
+				"email": "straight2bank.qa@sc.com"
+			},
+			"brand": {
+				"logo": "qa/StandardCharteredBank/logo.png",
+				"icon": "qa/StandardCharteredBank/icon.png",
+				"brand_main_color": "#0473EB",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#525355"
+				},
+				"card_color": "#02386C",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		
+		"UNITED BANK LIMITED, DOHA": {
+			"info": {
+				"short_name": "UBL Qatar",
+				"ToShowName": "UBL - United Bank Limited",
+				"official_name": "UNITED BANK LIMITED, DOHA",
+				"country": "qa",
+				"swift_code": "UNILQAQA"
+			},
+			"contact": {
+				"website": "https://ubldigital.com/qatar-home",
+				"customer_service": "+974 44441314",
+				"email": "contactubl@ublint.com"
+			},
+			"brand": {
+				"logo": "qa/UBL/logo.png",
+				"icon": "qa/UBL/icon.png",
+				"brand_main_color": "#0083CA",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#525355"
+				},
+				"card_color": "#00376E",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		}
+		
+		
+	}
+}							

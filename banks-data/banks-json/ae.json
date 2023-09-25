@@ -1,0 +1,504 @@
+{
+	
+	"ae": {
+		
+		"ABU DHABI COMMERCIAL BANK": {
+			"info": {
+				"short_name": "adcb",
+				"ToShowName": "ADCB - Abu Dhabi Commercial Bank",
+				"official_name": "ABU DHABI COMMERCIAL BANK",
+				"country": "ae",
+				"swift_code": "ADCBAEAA"
+			},
+			"contact": {
+				"website": "https://adcb.com",
+				"customer_service": "+971 2 621 0090",
+				"email": "contactus@adcb.com"
+			},
+			"brand": {
+				"logo": "ae/AbuDhabiCommercialBank/logo.png",
+				"icon": "ae/AbuDhabiCommercialBank/icon.png",
+				"brand_main_color": "#BC141A",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#1E1E1E",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"ABU DHABI ISLAMIC BANK": {
+			"info": {
+				"short_name": "adib",
+				"ToShowName": "ADIB - Abu Dhabi Islamic Bank",
+				"official_name": "ABU DHABI ISLAMIC BANK",
+				"country": "ae",
+				"swift_code": "ABDIAEAD"
+			},
+			"contact": {
+				"website": "https://adib.ae",
+				"customer_service": "+971 2 610 0600",
+				"email": "customerservice@adib​.ae"
+			},
+			"brand": {
+				"logo": "ae/AbuDhabiIslamicBank/logo.png",
+				"icon": "ae/AbuDhabiIslamicBank/icon.png",
+				"brand_main_color": "#003878",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#0295E7",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"AL MARYAH COMMUNITY BANK": {
+			"info": {
+				"short_name": "mbank",
+				"ToShowName": "MBANK - Al Maryah Community Bank",
+				"official_name": "AL MARYAH COMMUNITY BANK",
+				"country": "ae",
+				"swift_code": "E097AEXX"
+			},
+			"contact": {
+				"website": "https://mbank.ae",
+				"customer_service": "+971 2 412 2222",
+				"email": "info@mbankuae.com"
+			},
+			"brand": {
+				"logo": "ae/AlMaryahCommunityBank/logo.png",
+				"icon": "ae/AlMaryahCommunityBank/icon.png",
+				"brand_main_color": "#6BCBE9",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#333063",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#CFD2C9"
+			}
+		},
+		"EMIRATES INVESTMENT BANK P.J.S.C.": {
+			"info": {
+				"short_name": "eibank",
+				"ToShowName": "EIBANK - Arab Emirates Investment Bank",
+				"official_name": "EMIRATES INVESTMENT BANK P.J.S.C.",
+				"country": "ae",
+				"swift_code": "AEINAEAD"
+			},
+			"contact": {
+				"website": "https://eibank.com",
+				"customer_service": "+971 4 231 7777 ",
+				"email": ""
+			},
+			"brand": {
+				"logo": "ae/ArabEmiratesInvestmentBank/logo.png",
+				"icon": "ae/ArabEmiratesInvestmentBank/icon.png",
+				"brand_main_color": "#A70240",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#A70240",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"BANK OF SHARJAH, THE": {
+			"info": {
+				"short_name": "bankofsharjah",
+				"ToShowName": "Bank of Sharjah",
+				"official_name": "BANK OF SHARJAH, THE",
+				"country": "ae",
+				"swift_code": "SHARAEAS"
+			},
+			"contact": {
+				"website": "https://bankofsharjah.com",
+				"customer_service": "+971 6 5694411",
+				"email": ""
+			},
+			"brand": {
+				"logo": "ae/BankofSharjah/logo.png",
+				"icon": "ae/BankofSharjah/icon.png",
+				"brand_main_color": "#002854",
+				"brand_main_text_color": {
+					"dark": "#002854",
+					"light": "#D09D44"
+				},
+				"card_color": "#866C43",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"COMMERCIAL BANK OF DUBAI": {
+			"info": {
+				"short_name": "cbd",
+				"ToShowName": "CBD - Commercial Bank of Dubai",
+				"official_name": "COMMERCIAL BANK OF DUBAI",
+				"country": "ae",
+				"swift_code": "CBDUAEAD"
+			},
+			"contact": {
+				"website": "https://cbd.ae",
+				"customer_service": "+971 6 575 556",
+				"email": "customercare@cbd.ae"
+			},
+			"brand": {
+				"logo": "ae/CommercialBankofDubai/logo.png",
+				"icon": "ae/CommercialBankofDubai/icon.png",
+				"brand_main_color": "#00B8F0",
+				"brand_main_text_color": {
+					"dark": "#00B8F0",
+					"light": "#00B8F0"
+				},
+				"card_color": "#00B8F0",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#000000"
+			}
+		},
+		"DUBAI ISLAMIC BANK": {
+			"info": {
+				"short_name": "dib",
+				"ToShowName": "DIB - Dubai Islamic Bank",
+				"official_name": "DUBAI ISLAMIC BANK",
+				"country": "ae",
+				"swift_code": "DUIBAEAD"
+			},
+			"contact": {
+				"website": "http://dib.ae",
+				"customer_service": "+971 4 609 2222",
+				"email": "Contactus@dib.ae"
+			},
+			"brand": {
+				"logo": "ae/DubaiIslamicBank/logo.png",
+				"icon": "ae/DubaiIslamicBank/icon.png",
+				"brand_main_color": "#007945",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#292929",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#CFCED0"
+			}
+		},
+		"EMIRATES ISLAMIC BANK": {
+			"info": {
+				"short_name": "emiratesislamic",
+				"ToShowName": "Emirates Islamic",
+				"official_name": "EMIRATES ISLAMIC BANK",
+				"country": "ae",
+				"swift_code": "MEBLAEAD"
+			},
+			"contact": {
+				"website": "https://emiratesislamic.ae",
+				"customer_service": "+971 6 599 995",
+				"email": "Customercareunit@emiratesislamic.ae"
+			},
+			"brand": {
+				"logo": "ae/EmiratesIslamicBank/logo.png",
+				"icon": "ae/EmiratesIslamicBank/icon.png",
+				"brand_main_color": "#461E57",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#3D3D3D",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"EMIRATES NBD BANK PJSC": {
+			"info": {
+				"short_name": "emiratesnbd",
+				"ToShowName": "Emirates NBD",
+				"official_name": "EMIRATES NBD BANK PJSC",
+				"country": "ae",
+				"swift_code": "EBILAEAD"
+			},
+			"contact": {
+				"website": "https://emiratesnbd.com",
+				"customer_service": "+971 6 005 400 00",
+				"email": "customersupport@emiratesnbd.com"
+			},
+			"brand": {
+				"logo": "ae/EmiratesNBD/logo.png",
+				"icon": "ae/EmiratesNBD/icon.png",
+				"brand_main_color": "#182F7C",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#716FAA",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"FINANCE HOUSE P.J.S.C": {
+			"info": {
+				"short_name": "financehouse",
+				"ToShowName": "Finance House",
+				"official_name": "FINANCE HOUSE P.J.S.C",
+				"country": "ae",
+				"swift_code": "FHOUAEAD"
+			},
+			"contact": {
+				"website": "https://financehouse.ae",
+				"customer_service": " +971 2 619 4000",
+				"email": "customerservice@fh.ae"
+			},
+			"brand": {
+				"logo": "ae/financehouse/logo.png",
+				"icon": "ae/financehouse/icon.png",
+				"brand_main_color": "#00426A",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#53A2C8",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"First AbuDhabi Bank": {
+			"info": {
+				"short_name": "bankfab",
+				"ToShowName": "First AbuDhabi Bank",
+				"official_name": "NATIONAL BANK OF ABU DHABI",
+				"country": "ae",
+				"swift_code": "NBADAEAA"
+			},
+			"contact": {
+				"website": "https://bankfab.com",
+				"customer_service": "+971 2 681 1511",
+				"email": "atyourservice@bankfab.com"
+			},
+			"brand": {
+				"logo": "ae/FirstAbuDhabiBank/logo.png",
+				"icon": "ae/FirstAbuDhabiBank/icon.png",
+				"brand_main_color": "#757575",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#12508E",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"NATIONAL BANK OF ABU DHABI": {
+			"info": {
+				"short_name": "bankfab",
+				"ToShowName": "National Bank of Abu Dhabi",
+				"official_name": "NATIONAL BANK OF ABU DHABI",
+				"country": "ae",
+				"swift_code": "NBADAEAA"
+			},
+			"contact": {
+				"website": "https://bankfab.com",
+				"customer_service": "+971 2 681 1511",
+				"email": "tbchannel.support@bankfab.com"
+			},
+			"brand": {
+				"logo": "ae/NationalBankofAbuDhabi/logo.png",
+				"icon": "ae/NationalBankofAbuDhabi/icon.png",
+				"brand_main_color": "#757575",
+				"brand_main_text_color": {
+					"dark": "#12508E",
+					"light": "#ffffff"
+				},
+				"card_color": "#049f17",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"NATIONAL BANK OF FUJAIRAH": {
+			"info": {
+				"short_name": "nbf",
+				"ToShowName": "NBF - National Bank of Fujairah",
+				"official_name": "NATIONAL BANK OF FUJAIRAH",
+				"country": "ae",
+				"swift_code": "NBFUAEAFDXB"
+			},
+			"contact": {
+				"website": "https://nbf.ae",
+				"customer_service": "+971 4 397 3922",
+				"email": ""
+			},
+			"brand": {
+				"logo": "ae/NationalBankofFujairah/logo.png",
+				"icon": "ae/NationalBankofFujairah/icon.png",
+				"brand_main_color": "#4CBAE4",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#009FE3",
+				"card_color_gradient": "#ffffff",
+				"card_text_color": "#373736"
+			}
+		},
+		"NATIONAL BANK OF UMM AL QAIWAIN PSC": {
+			"info": {
+				"short_name": "nbq",
+				"ToShowName": "NBQ - National Bank of Umm Al-Qaiwain",
+				"official_name": "NATIONAL BANK OF UMM AL QAIWAIN PSC",
+				"country": "ae",
+				"swift_code": "UMMQAEADFXD"
+			},
+			"contact": {
+				"website": "https://nbq.ae",
+				"customer_service": "",
+				"email": "info@nbq.ae"
+			},
+			"brand": {
+				"logo": "ae/NationalBankofUmmAl-Qaiwain/logo.png",
+				"icon": "ae/NationalBankofUmmAl-Qaiwain/icon.png",
+				"brand_main_color": "#E53E3E",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#E8242D",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"NOOR ISLAMIC BANK": {
+			"info": {
+				"short_name": "nrbuae",
+				"ToShowName": "Noor Bank",
+				"official_name": "NOOR ISLAMIC BANK",
+				"country": "ae",
+				"swift_code": "NISLAEAD"
+			},
+			"contact": {
+				"website": "https://nrbuae.com",
+				"customer_service": "+971 4 427 4343",
+				"email": "contactcentre@noorbank.com"
+			},
+			"brand": {
+				"logo": "ae/NoorBank/logo.png",
+				"icon": "ae/NoorBank/icon.png",
+				"brand_main_color": "#011A41",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#280C42",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#EB8100"
+			}
+		},
+		"NATIONAL BANK OF RAS AL-KHAIMAH, THE": {
+			"info": {
+				"short_name": "rakbank",
+				"ToShowName": "RAK Bank",
+				"official_name": "NATIONAL BANK OF RAS AL-KHAIMAH, THE",
+				"country": "ae",
+				"swift_code": "NRAKAEAK"
+			},
+			"contact": {
+				"website": "https://rakbank.ae",
+				"customer_service": "+971 7 206 4444",
+				"email": "contactus@rakbank.ae"
+			},
+			"brand": {
+				"logo": "ae/RAKBANK/logo.png",
+				"icon": "ae/RAKBANK/icon.png",
+				"brand_main_color": "#ED1C24",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#A80107",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"SHARJAH ISLAMIC BANK": {
+			"info": {
+				"short_name": "sib",
+				"ToShowName": "SIB - Sharjah Islamic Bank",
+				"official_name": "SHARJAH ISLAMIC BANK",
+				"country": "ae",
+				"swift_code": "NBSHAEAS"
+			},
+			"contact": {
+				"website": "https://sib.ae",
+				"customer_service": "+971 6 599 2502",
+				"email": "marketing@sib.ae"
+			},
+			"brand": {
+				"logo": "ae/SharjahIslamicbank/logo.png",
+				"icon": "ae/SharjahIslamicbank/icon.png",
+				"brand_main_color": "#162F96",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#172837",
+				"card_color_gradient": "#ffffff",
+				"card_text_color": "#071689"
+			}
+		},
+		"UNION NATIONAL BANK": {
+			"info": {
+				"short_name": "unbelgin",
+				"ToShowName": "Union National Bank",
+				"official_name": "UNION NATIONAL BANK",
+				"country": "ae",
+				"swift_code": "UNBEAEAA"
+			},
+			"contact": {
+				"website": "https://unbelgin.com",
+				"customer_service": "",
+				"email": ""
+			},
+			"brand": {
+				"logo": "ae/UnionNationalBank/logo.png",
+				"icon": "ae/UnionNationalBank/icon.png",
+				"brand_main_color": "#2D3B4C",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#2D3B4C",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"UNITED ARAB BANK": {
+			"info": {
+				"short_name": "uab",
+				"ToShowName": "UAB - United Arab Bank",
+				"official_name": "UNITED ARAB BANK",
+				"country": "ae",
+				"swift_code": "UARBAEAA"
+			},
+			"contact": {
+				"website": "https://uab.ae",
+				"customer_service": "+971 6 598 7332",
+				"email": "info@uab.ae"
+			},
+			"brand": {
+				"logo": "ae/UnitedArabBank/logo.png",
+				"icon": "ae/UnitedArabBank/icon.png",
+				"brand_main_color": "#00528F",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#476C9E",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		}
+		
+		
+		
+		
+	}
+}												

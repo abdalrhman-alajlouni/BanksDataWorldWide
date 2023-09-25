@@ -1,0 +1,477 @@
+{
+	
+	"om": {
+		
+		"ALIZZ ISLAMIC BANK": {
+			"info": {
+				"short_name": "alizzislamic",
+				"ToShowName": "Alizz Islamic Bank",
+				"official_name": "ALIZZ ISLAMIC BANK",
+				"country": "om",
+				"swift_code": "IZZBOMRU"
+			},
+			"contact": {
+				"website": "https://alizzislamic.com",
+				"customer_service": "",
+				"email": "customerservice@alizzislamic.com"
+			},
+			"brand": {
+				"logo": "om/AlizzIslamicBank/logo.png",
+				"icon": "om/AlizzIslamicBank/icon.png",
+				"brand_main_color": "#74A1D0",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#4F86C6",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"BANK DHOFAR (S.A.O.G.)": {
+			"info": {
+				"short_name": "bankdhofar",
+				"ToShowName": "Bank Dhofar",
+				"official_name": "BANK DHOFAR (S.A.O.G.)",
+				"country": "om",
+				"swift_code": "BDOFOMRU"
+			},
+			"contact": {
+				"website": "https://bankdhofar.com",
+				"customer_service": "+968 24791111",
+				"email": "Care@BankDhofar.com"
+			},
+			"brand": {
+				"logo": "om/BankDhofar/logo.png",
+				"icon": "om/BankDhofar/icon.png",
+				"brand_main_color": "#61B214",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#1C5182",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"BANKMUSCAT SAOG": {
+			"info": {
+				"short_name": "bankmuscat",
+				"ToShowName": "Bank Muscat",
+				"official_name": "BANKMUSCAT SAOG",
+				"country": "om",
+				"swift_code": "BMUSOMRX"
+			},
+			"contact": {
+				"website": "https://bankmuscat.com",
+				"customer_service": "+968 24768888",
+				"email": ""
+			},
+			"brand": {
+				"logo": "om/BankMuscat/logo.png",
+				"icon": "om/BankMuscat/icon.png",
+				"brand_main_color": "#D4BDDB",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#E73841",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"BANK NIZWA": {
+			"info": {
+				"short_name": "banknizwa",
+				"ToShowName": "Bank Nizwa",
+				"official_name": "BANK NIZWA",
+				"country": "om",
+				"swift_code": "BNZWOMRX"
+			},
+			"contact": {
+				"website": "https://banknizwa.om",
+				"customer_service": "+968 24950500",
+				"email": "customercare@banknizwa.om"
+			},
+			"brand": {
+				"logo": "om/BankNizwa/logo.png",
+				"icon": "om/BankNizwa/icon.png",
+				"brand_main_color": "#691E88",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#691E88",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#FDC61E"
+			}
+		},
+		"BANK OF BARODA, GREATER MUTTRAH BRANCH": {
+			"info": {
+				"short_name": "bankofbarodaoman",
+				"ToShowName": "Bank of Baroda",
+				"official_name": "BANK OF BARODA, GREATER MUTTRAH BRANCH",
+				"country": "om",
+				"swift_code": "BARBOMMX"
+			},
+			"contact": {
+				"website": "https://bankofbarodaoman.com",
+				"customer_service": "",
+				"email": ""
+			},
+			"brand": {
+				"logo": "om/BankofBaroda/logo.png",
+				"icon": "om/BankofBaroda/icon.png",
+				"brand_main_color": "#FA7A31",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#FA7A31",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"BANK OF BEIRUT S.A.L.": {
+			"info": {
+				"short_name": "bankofbeirut",
+				"ToShowName": "Bank of Beirut",
+				"official_name": "BANK OF BEIRUT S.A.L.",
+				"country": "om",
+				"swift_code": "BABEOMR"
+			},
+			"contact": {
+				"website": "https://bankofbeirut.com.om",
+				"customer_service": "",
+				"email": "barodaconnect@bankofbaroda.com"
+			},
+			"brand": {
+				"logo": "om/BankofBeirut/logo.png",
+				"icon": "om/BankofBeirut/icon.png",
+				"brand_main_color": "#00AEDB",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#00AEDB",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"BANK SADERAT IRAN": {
+			"info": {
+				"short_name": "banksaderat",
+				"ToShowName": "Bank Saderat Iran",
+				"official_name": "BANK SADERAT IRAN",
+				"country": "om",
+				"swift_code": "BSIROMRX"
+			},
+			"contact": {
+				"website": "http://banksaderat.ae",
+				"customer_service": "",
+				"email": ""
+			},
+			"brand": {
+				"logo": "om/BankSaderatIran/logo.png",
+				"icon": "om/BankSaderatIran/icon.png",
+				"brand_main_color": "#3C8DF1",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#29166F",
+				"card_color_gradient": "#ffffff",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"HABIB BANK OMAN": {
+			"info": {
+				"short_name": "hbl",
+				"ToShowName": "HBL - Habib Bank Limited",
+				"official_name": "HABIB BANK OMAN",
+				"country": "om",
+				"swift_code": "HABBOMR"
+			},
+			"contact": {
+				"website": "https://hbl.com/oman",
+				"customer_service": "+968 22058800",
+				"email": "rofc@bsi.co.ae"
+			},
+			"brand": {
+				"logo": "om/HBL/logo.png",
+				"icon": "om/HBL/icon.png",
+				"brand_main_color": "#197056",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#00827B",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"HOUSING BANK OMAN": {
+			"info": {
+				"short_name": "ohb",
+				"ToShowName": "OHB - Housing Bank oman",
+				"official_name": "",
+				"country": "om",
+				"swift_code": ""
+			},
+			"contact": {
+				"website": "https://ohb.co.om",
+				"customer_service": "+969 24775800",
+				"email": "main.services@ohb.co.om"
+			},
+			"brand": {
+				"logo": "om/Housingbank/logo.png",
+				"icon": "om/Housingbank/icon.png",
+				"brand_main_color": "#BA8C4A",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#000000",
+				"card_color_gradient": "#414141",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"HSBC BANK OMAN S.A.O.G": {
+			"info": {
+				"short_name": "hsbc",
+				"ToShowName": "HSBC - Bank Oman",
+				"official_name": "HSBC BANK OMAN S.A.O.G",
+				"country": "om",
+				"swift_code": "BBMEOMR"
+			},
+			"contact": {
+				"website": "https://hsbc.com",
+				"customer_service": "",
+				"email": "customerrelations@hsbc.com"
+			},
+			"brand": {
+				"logo": "om/HSBC/logo.png",
+				"icon": "om/HSBC/icon.png",
+				"brand_main_color": "#DA0011",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#DA0011",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"NATIONAL BANK OF ABU DHABI, OMAN MAIN BRANCH": {
+			"info": {
+				"short_name": "fab",
+				"ToShowName": "FAB - National Bank Of Oman",
+				"official_name": "NATIONAL BANK OF ABU DHABI, OMAN MAIN BRANCH",
+				"country": "om",
+				"swift_code": "NBADOMRXTFO"
+			},
+			"contact": {
+				"website": "https://bankfab.com/en-om",
+				"customer_service": " +968 24761000",
+				"email": "atyourservice@bankfab.com"
+			},
+			"brand": {
+				"logo": "om/NationalBankofAbuDhabi/logo.png",
+				"icon": "om/NationalBankofAbuDhabi/icon.png",
+				"brand_main_color": "#5C5E62",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#049f17",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"NATIONAL BANK OF OMAN": {
+			"info": {
+				"short_name": "nbo",
+				"ToShowName": "NBO - National Bank of Oman",
+				"official_name": "NATIONAL BANK OF OMAN",
+				"country": "om",
+				"swift_code": "NBOMOMRX"
+			},
+			"contact": {
+				"website": "https://nbo.om",
+				"customer_service": "+968 24770000",
+				"email": "gccfund@nbo.co.om"
+			},
+			"brand": {
+				"logo": "om/NationalBankofOman/logo.png",
+				"icon": "om/NationalBankofOman/icon.png",
+				"brand_main_color": "#165BD6",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#165BD6",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"OMAN ARAB BANK SAOC": {
+			"info": {
+				"short_name": "oman-arabbank",
+				"ToShowName": "Oman Arab Bank",
+				"official_name": "OMAN ARAB BANK SAOC",
+				"country": "om",
+				"swift_code": "OMABOMRU"
+			},
+			"contact": {
+				"website": "https://oman-arabbank.com",
+				"customer_service": "+968 24754444",
+				"email": "contactus@oman-arabbank.com"
+			},
+			"brand": {
+				"logo": "om/OmanArabBank/logo.png",
+				"icon": "om/OmanArabBank/icon.png",
+				"brand_main_color": "#0058AB",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#0058AB",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"OMAN DEVELOPMENT BANK": {
+			"info": {
+				"short_name": "odb",
+				"ToShowName": "ODB - Oman Development bank",
+				"official_name": "OMAN DEVELOPMENT BANK",
+				"country": "om",
+				"swift_code": ""
+			},
+			"contact": {
+				"website": "https://odb.om",
+				"customer_service": "+968 80007888",
+				"email": "customer.care@odb.om"
+			},
+			"brand": {
+				"logo": "om/OmanDevelopment/logo.png",
+				"icon": "om/OmanDevelopment/icon.png",
+				"brand_main_color": "#002F56",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#002F56",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"QATAR NATIONAL BANK": {
+			"info": {
+				"short_name": "qnb",
+				"ToShowName": "QNB Group",
+				"official_name": "QATAR NATIONAL BANK",
+				"country": "om",
+				"swift_code": "QNBAOMRX"
+			},
+			"contact": {
+				"website": "https://qnb.com",
+				"customer_service": "",
+				"email": ""
+			},
+			"brand": {
+				"logo": "om/QNBGroup/logo.png",
+				"icon": "om/QNBGroup/icon.png",
+				"brand_main_color": "#870052",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#870052",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"STATE BANK OF INDIA, MUSCAT, OMAN": {
+			"info": {
+				"short_name": "sbi",
+				"ToShowName": "SBI - State Bank of India",
+				"official_name": "STATE BANK OF INDIA, MUSCAT, OMAN",
+				"country": "om",
+				"swift_code": "SBINOMRX"
+			},
+			"contact": {
+				"website": "https://om.statebank",
+				"customer_service": "+968 24704232",
+				"email": "ops.oman@statebank.com"
+			},
+			"brand": {
+				"logo": "om/SBI/logo.png",
+				"icon": "om/SBI/icon.png",
+				"brand_main_color": "#281E74",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#281E74",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"BANK SOHAR S.A.O.G": {
+			"info": {
+				"short_name": "soharinternational",
+				"ToShowName": "Sohar International Bank",
+				"official_name": "BANK SOHAR S.A.O.G",
+				"country": "om",
+				"swift_code": "BSHROMRU"
+			},
+			"contact": {
+				"website": "https://soharinternational.com",
+				"customer_service": "+968 24761761",
+				"email": "netbanking@banksohar.net"
+			},
+			"brand": {
+				"logo": "om/SoharInternationalBank/logo.png",
+				"icon": "om/SoharInternationalBank/icon.png",
+				"brand_main_color": "#252525",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#252525",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		"STANDARD CHARTERED BANK": {
+			"info": {
+				"short_name": "sc",
+				"ToShowName": "SC - Standard Chartered Bank",
+				"official_name": "STANDARD CHARTERED BANK",
+				"country": "om",
+				"swift_code": "SCBLOMRX"
+			},
+			"contact": {
+				"website": "https://sc.com",
+				"customer_service": "+968 224773669",
+				"email": "customer.care@sc.com"
+			},
+			"brand": {
+				"logo": "om/StandardCharteredBank/logo.png",
+				"icon": "om/StandardCharteredBank/icon.png",
+				"brand_main_color": "#0473EA",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#0473EA",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		}
+		
+		
+		
+	}
+}													

@@ -1,0 +1,526 @@
+{
+	
+	"il": {
+		
+		"ARAB ISRAEL BANK LTD": {
+			"info": {
+				"short_name": "arabisraelbank",
+				"ToShowName": "Arab Israel Bank",
+				"official_name": "ARAB ISRAEL BANK LTD",
+				"country": "il",
+				"swift_code": "ARISILI1"
+			},
+			"contact": {
+				"website": "",
+				"customer_service": "",
+				"email": ""
+			},
+			"brand": {
+				"logo": "il/ArabIsraelBank/logo.png",
+				"icon": "il/ArabIsraelBank/icon.png",
+				"brand_main_color": "#00ADEF",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#00ADEF",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"BANK HAPOALIM B.M.": {
+			"info": {
+				"short_name": "hapoalim",
+				"ToShowName": "Bank Hapoalim",
+				"official_name": "BANK HAPOALIM B.M.",
+				"country": "il",
+				"swift_code": "POALILIT"
+			},
+			"contact": {
+				"website": "https://bankhapoalim.com",
+				"customer_service": "+972 36532620",
+				"email": ""
+			},
+			"brand": {
+				"logo": "il/BankHapoalim/logo.png",
+				"icon": "il/BankHapoalim/icon.png",
+				"brand_main_color": "#E4061F",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#E4061F",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"BANK LEUMI LE ISRAEL B.M.": {
+			"info": {
+				"short_name": "leumi",
+				"ToShowName": "Bank Leumi",
+				"official_name": "BANK LEUMI LE ISRAEL B.M.",
+				"country": "il",
+				"swift_code": "LUMIILIT"
+			},
+			"contact": {
+				"website": "https://english.leumi.co.il",
+				"customer_service": "",
+				"email": ""
+			},
+			"brand": {
+				"logo": "il/BankLeumi/logo.png",
+				"icon": "il/BankLeumi/icon.png",
+				"brand_main_color": "#00A7ED",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#00A7ED",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"BANK MASSAD LTD.": {
+			"info": {
+				"short_name": "massad",
+				"ToShowName": "Bank Massad",
+				"official_name": "BANK MASSAD LTD.",
+				"country": "il",
+				"swift_code": "MASBILIT"
+			},
+			"contact": {
+				"website": "https://bankmassad.co.il",
+				"customer_service": "+972 35130046",
+				"email": "supportm@bankmassad.co.il"
+			},
+			"brand": {
+				"logo": "il/BankMassad/logo.png",
+				"icon": "il/BankMassad/icon.png",
+				"brand_main_color": "#244BA6",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#244BA6",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"MIZRAHI TEFAHOT BANK": {
+			"info": {
+				"short_name": "mizrahitefahot",
+				"ToShowName": "Bank Mizrahi-Tefahot",
+				"official_name": "MIZRAHI TEFAHOT BANK",
+				"country": "il",
+				"swift_code": "MIZBILIT"
+			},
+			"contact": {
+				"website": "https://mizrahi-tefahot.co.il",
+				"customer_service": "+972 37559913",
+				"email": "mangment@umtb.co.il"
+			},
+			"brand": {
+				"logo": "il/BankMizrahiTefahot/logo.png",
+				"icon": "il/BankMizrahiTefahot/icon.png",
+				"brand_main_color": "#F5821F",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#F5821F",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"BANK OF JERUSALEM LTD. TEL-AVIV": {
+			"info": {
+				"short_name": "jerusalem",
+				"ToShowName": "Bank of Jerusalem",
+				"official_name": "BANK OF JERUSALEM LTD. TEL-AVIV",
+				"country": "il",
+			"swift_code": "JERSILIT"
+			},
+			"contact": {
+				"website": "https://bankjerusalem.co.il",
+				"customer_service": "+972 768096000",
+				"email": ""
+			},
+			"brand": {
+				"logo": "il/BankofJerusalem/logo.png",
+				"icon": "il/BankofJerusalem/icon.png",
+				"brand_main_color": "#C08D2D",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#C08D2D",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"BANK YAHAV FOR GOVERMENT EMPLOYEES LTD": {
+			"info": {
+				"short_name": "yahav",
+				"ToShowName": "Bank Yahav",
+				"official_name": "BANK YAHAV FOR GOVERMENT EMPLOYEES LTD",
+				"country": "il",
+			"swift_code": "BYAHILIJ"
+			},
+			"contact": {
+				"website": "https://bank-yahav.co.il",
+				"customer_service": "",
+				"email": ""
+			},
+			"brand": {
+				"logo": "il/BankYahav/logo.png",
+				"icon": "il/BankYahav/icon.png",
+				"brand_main_color": "#1F409B",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#1F409B",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"BARCLAYS BANK PLC": {
+			"info": {
+				"short_name": "barclays",
+				"ToShowName": "Barclays",
+				"official_name": "BARCLAYS BANK PLC",
+				"country": "il",
+			"swift_code": ""
+			},
+			"contact": {
+				"website": "https://cib.barclays",
+				"customer_service": "",
+				"email": "barclays@ntrs.com"
+			},
+			"brand": {
+				"logo": "il/Barclays/logo.png",
+				"icon": "il/Barclays/icon.png",
+				"brand_main_color": "#2F9BE3",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#2F9BE3",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"BNP Paribas": {
+			"info": {
+				"short_name": "bnpparibas",
+				"ToShowName": "BNP Paribas",
+				"official_name": "BNP Paribas",
+				"country": "il",
+			"swift_code": ""
+			},
+			"contact": {
+				"website": "https://group.bnpparibas",
+				"customer_service": "",
+				"email": ""
+			},
+			"brand": {
+				"logo": "il/BNPParibas/logo.png",
+				"icon": "il/BNPParibas/icon.png",
+				"brand_main_color": "#018254",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#018254",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"CITIBANK N.A. BIC": {
+			"info": {
+				"short_name": "citi",
+				"ToShowName": "Citibank",
+				"official_name": "CITIBANK N.A. BIC",
+				"country": "il",
+			"swift_code": "CITIILIT"
+			},
+			"contact": {
+				"website": "https://www.citi.com/",
+				"customer_service": "",
+				"email": "customercare@citi.com"
+			},
+			"brand": {
+				"logo": "il/citibank/logo.png",
+				"icon": "il/citibank/icon.png",
+				"brand_main_color": "#1F7CB6",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#1F7CB6",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"DEXIA ISRAEL BANK LTD": {
+			"info": {
+				"short_name": "dexia",
+				"ToShowName": "Dexia Bank",
+				"official_name": "DEXIA ISRAEL BANK LTD",
+				"country": "il",
+			"swift_code": "OTHHILI1"
+			},
+			"contact": {
+				"website": "https://dexia.com",
+				"customer_service": "",
+				"email": "accueil-client@dexia.com"
+			},
+			"brand": {
+				"logo": "il/DEXIA/logo.png",
+				"icon": "il/DEXIA/icon.png",
+				"brand_main_color": "#004A99",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#004A99",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"FIRST INTERNATIONAL BANK OF ISRAEL LTD": {
+			"info": {
+				"short_name": "fibi",
+				"ToShowName": "First International Bank of Israel",
+				"official_name": "FIRST INTERNATIONAL BANK OF ISRAEL LTD",
+				"country": "il",
+			"swift_code": "FIRBILIT"
+			},
+			"contact": {
+				"website": "https://online.fibi.co.il",
+				"customer_service": "",
+				"email": "support@fibi.co.il"
+			},
+			"brand": {
+				"logo": "il/FirstInternationalBankofIsrael/logo.png",
+				"icon": "il/FirstInternationalBankofIsrael/icon.png",
+				"brand_main_color": "#13245F",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#13245F",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"HSBC BANK PLC BIC": {
+			"info": {
+				"short_name": "hsbc",
+				"ToShowName": "HSBC Bank Israel",
+				"official_name": "HSBC BANK PLC BIC",
+				"country": "il",
+			"swift_code": "HSBCILIT"
+			},
+			"contact": {
+				"website": "https://hsbc.co.il",
+				"customer_service": "+972 37101234",
+				"email": "client.management.israel@hsbc.com"
+			},
+			"brand": {
+				"logo": "il/HSBC/logo.png",
+				"icon": "il/HSBC/icon.png",
+				"brand_main_color": "#DE0000",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#DE0000",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"SRAEL DISCOUNT BANK LTD": {
+			"info": {
+				"short_name": "discount",
+				"ToShowName": "Israel Discount Bank",
+				"official_name": "SRAEL DISCOUNT BANK LTD",
+				"country": "il",
+			"swift_code": "IDBLILIT"
+			},
+			"contact": {
+				"website": "https://www.discountbank.co.il",
+				"customer_service": "",
+				"email": ""
+			},
+			"brand": {
+				"logo": "il/IsraelDiscountBank/logo.png",
+				"icon": "il/IsraelDiscountBank/icon.png",
+				"brand_main_color": "#59AD29",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#59AD29",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"POSTAL BANK COMPANY LTD": {
+			"info": {
+				"short_name": "israelpost",
+				"ToShowName": "Israel Postal Bank",
+				"official_name": "POSTAL BANK COMPANY LTD",
+				"country": "il",
+			"swift_code": "IPOAILIJ"
+			},
+			"contact": {
+				"website": "https://services.israelpost.co.il",
+				"customer_service": "",
+				"email": ""
+			},
+			"brand": {
+				"logo": "il/IsraelPostalBank/logo.png",
+				"icon": "il/IsraelPostalBank/icon.png",
+				"brand_main_color": "#B94043",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#B94043",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		
+		"ONE ZERO DIGITAL BANK LTD": {
+			"info": {
+				"short_name": "onezero",
+				"ToShowName": "ONE ZERO Private Digital Bank",
+				"official_name": "ONE ZERO DIGITAL BANK LTD",
+				"country": "il",
+			"swift_code": "DIGIILIT"
+			},
+			"contact": {
+				"website": "https://onezerobank.com",
+				"customer_service": "",
+				"email": "talk2us@digibank.co.il"
+			},
+			"brand": {
+				"logo": "il/onezero/logo.png",
+				"icon": "il/onezero/icon.png",
+				"brand_main_color": "#8A888A",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#8A888A",
+				"card_color_gradient": "#ffffff",
+				"card_text_color": "#000000"
+			}
+		},
+		
+		
+		"STATE BANK OF INDIA BIC": {
+			"info": {
+				"short_name": "sbi",
+				"ToShowName": "State Bank of India, Tel Aviv",
+				"official_name": "STATE BANK OF INDIA BIC",
+				"country": "il",
+			"swift_code": "SBINILIT"
+			},
+			"contact": {
+				"website": "https://sbi-ag.com",
+				"customer_service": "+972 37565404",
+				"email": ""
+			},
+			"brand": {
+				"logo": "il/SBI/logo.png",
+				"icon": "il/SBI/icon.png",
+				"brand_main_color": "#00A9E0",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#00A9E0",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		},
+		
+		"UBS Bank": {
+			"info": {
+				"short_name": "ubs",
+				"ToShowName": "UBS Bank",
+				"official_name": "UBS Bank",
+				"country": "il",
+			"swift_code": ""
+			},
+			"contact": {
+				"website": "https://ubs.com",
+				"customer_service": "",
+				"email": "comments@ubs.com"
+			},
+			"brand": {
+				"logo": "il/UBS/logo.png",
+				"icon": "il/UBS/icon.png",
+				"brand_main_color": "#EA3232",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#EA3232",
+				"card_color_gradient": "#ff6666",
+				"card_text_color": "#000000"
+			}
+		},
+		
+		"UNION BANK OF ISRAEL LTD": {
+			"info": {
+				"short_name": "union",
+				"ToShowName": "Union Bank of Israel",
+				"official_name": "UNION BANK OF ISRAEL LTD",
+				"country": "il",
+			"swift_code": "UNBKILIT"
+			},
+			"contact": {
+				"website": "http://unionbank.co.il",
+				"customer_service": "+972 1599599063",
+				"email": "customer.service@unionbankph.com"
+			},
+			"brand": {
+				"logo": "il/UnionBankofIsrael/logo.png",
+				"icon": "il/UnionBankofIsrael/icon.png",
+				"brand_main_color": "#532C7F",
+				"brand_main_text_color": {
+					"dark": "#ffffff",
+					"light": "#000000"
+				},
+				"card_color": "#532C7F",
+				"card_color_gradient": "#000000",
+				"card_text_color": "#ffffff"
+			}
+		}
+		
+		
+		
+		
+		
+		
+	}
+}						
