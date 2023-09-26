@@ -1,0 +1,719 @@
+{
+    "sa": {
+        "AL INMA BANK": {
+            "info": {
+                "short_name": "alinma",
+                "ToShowName": "Al Inma Bank",
+                "official_name": "AL INMA BANK",
+                "country": "sa",
+                "swift_code": "INMASARI"
+            },
+            "contact": {
+                "website": "https://alinma.com",
+                "customer_service": "+966 920028000",
+                "email": "WA@Alinma.com"
+            },
+            "brand": {
+                "logo": "sa/Alinma/logo.png",
+                "icon": "sa/Alinma/icon-white.png",
+                "brand_main_color": "#400700",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#59170C",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "428671",
+                    "428672",
+                    "428673",
+                    "428678",
+                    "428679",
+                    "432326",
+                    "432327",
+                    "432328",
+                    "434107",
+                    "446672",
+                    "446673",
+                    "458270",
+                    "483432",
+                    "529157",
+                    "529178",
+                    "530481",
+                    "543357",
+                    "547026",
+                    "552363"
+                ]
+            }
+        },
+        "AL RAJHI BANK": {
+            "info": {
+                "short_name": "rajhi",
+                "ToShowName": "Al Rajhi Bank",
+                "official_name": "AL RAJHI BANK",
+                "country": "sa",
+                "swift_code": "RJHISARI"
+            },
+            "contact": {
+                "website": "https://alrajhibank.com.sa",
+                "customer_service": "+966 114603333",
+                "email": "customersupport@alrajhibank.com.my"
+            },
+            "brand": {
+                "logo": "sa/Al-RajhiBank/logo.png",
+                "icon": "sa/Al-RajhiBank/icon.png",
+                "brand_main_color": "#221AFB",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#221AFB",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "400861",
+                    "405433",
+                    "407620",
+                    "409201",
+                    "409246",
+                    "410248",
+                    "410249",
+                    "414627",
+                    "416634",
+                    "417321",
+                    "417323",
+                    "419461",
+                    "426362",
+                    "432159",
+                    "436321",
+                    "445520",
+                    "445521",
+                    "445522",
+                    "445826",
+                    "445827",
+                    "455708",
+                    "455739",
+                    "455740",
+                    "458456",
+                    "462220",
+                    "484783",
+                    "486653",
+                    "490980",
+                    "494329",
+                    "512623",
+                    "524126",
+                    "524266",
+                    "542894",
+                    "545619",
+                    "549963",
+                    "549964",
+                    "554575"
+                ]
+            }
+        },
+        "ARAB NATIONAL BANK": {
+            "info": {
+                "short_name": "anb",
+                "ToShowName": "ANB - Arab National Bank",
+                "official_name": "ARAB NATIONAL BANK",
+                "country": "sa",
+                "swift_code": "ARNBSARI"
+            },
+            "contact": {
+                "website": "https://anb.com.sa",
+                "customer_service": "",
+                "email": "CustomerCare@anb.com.sa"
+            },
+            "brand": {
+                "logo": "sa/anb/logo.png",
+                "icon": "sa/anb/icon.png",
+                "brand_main_color": "#0072DA",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#0072DA",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "400067",
+                    "404949",
+                    "420177",
+                    "451111",
+                    "455017",
+                    "455035",
+                    "455036",
+                    "455037",
+                    "466515",
+                    "473258",
+                    "486094",
+                    "486095",
+                    "486096",
+                    "491610",
+                    "517918",
+                    "520430",
+                    "520431",
+                    "536813",
+                    "542806",
+                    "544017",
+                    "549400"
+                ]
+            }
+        },
+        "BANK AL BILAD": {
+            "info": {
+                "short_name": "albilad",
+                "ToShowName": "Bank Albilad",
+                "official_name": "BANK AL BILAD",
+                "country": "sa",
+                "swift_code": "ALBISARI"
+            },
+            "contact": {
+                "website": "https://bankalbilad.com",
+                "customer_service": "+966 920001002",
+                "email": "Customercare@bankalbilad.com"
+            },
+            "brand": {
+                "logo": "sa/Bank_Albilad/logo.png",
+                "icon": "sa/Bank_Albilad/icon.png",
+                "brand_main_color": "#7B6F67",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#F5F4F2",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#000000"
+            },
+            "data": {
+                "bins": [
+                    "400795",
+                    "417633",
+                    "424260",
+                    "424261",
+                    "424262",
+                    "428334",
+                    "428335",
+                    "433072",
+                    "446392",
+                    "446393",
+                    "457796",
+                    "468540",
+                    "468541",
+                    "468542",
+                    "468543",
+                    "475078",
+                    "475100",
+                    "475109",
+                    "475153",
+                    "481206",
+                    "481207"
+                ]
+            }
+        },
+        "BANK AL-JAZIRA": {
+            "info": {
+                "short_name": "aljazira",
+                "ToShowName": "Bank Aljazira",
+                "official_name": "BANK AL-JAZIRA",
+                "country": "sa",
+                "swift_code": "BJAZSAJE"
+            },
+            "contact": {
+                "website": "https://bankaljazira.com",
+                "customer_service": "",
+                "email": "Call_Center_Supervisor@bankaljazira.com"
+            },
+            "brand": {
+                "logo": "sa/Bank_Aljazira/logo.png",
+                "icon": "sa/Bank_Aljazira/icon.png",
+                "brand_main_color": "#0E416B",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#0E416B",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "406487",
+                    "414090",
+                    "414841",
+                    "421051",
+                    "428374",
+                    "428375",
+                    "440532",
+                    "440533",
+                    "445564",
+                    "473825",
+                    "473826",
+                    "473827",
+                    "473828",
+                    "489317",
+                    "489318",
+                    "489319",
+                    "517532",
+                    "523041",
+                    "524236",
+                    "546924",
+                    "550002"
+                ]
+            }
+        },
+        "BANQUE SAUDI FRANSI": {
+            "info": {
+                "short_name": "alfransi",
+                "ToShowName": "Banque Saudi Fransi",
+                "official_name": "BANQUE SAUDI FRANSI",
+                "country": "sa",
+                "swift_code": "BSFRSARI"
+            },
+            "contact": {
+                "website": "https://alfransi.com.sa",
+                "customer_service": "+966 920000576",
+                "email": "CustomerService@allianzsf.com.sa"
+            },
+            "brand": {
+                "logo": "sa/Banque_Saudi_Fransi/logo.png",
+                "icon": "sa/Banque_Saudi_Fransi/icon.png",
+                "brand_main_color": "#0F4E56",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#014577",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "401812",
+                    "401883",
+                    "401884",
+                    "401978",
+                    "425871",
+                    "428274",
+                    "428275",
+                    "437974",
+                    "437975",
+                    "437976",
+                    "437977",
+                    "437978",
+                    "437979",
+                    "437980",
+                    "440647",
+                    "440795",
+                    "444445",
+                    "446404",
+                    "450824",
+                    "457865",
+                    "457997",
+                    "457998",
+                    "459583",
+                    "459588",
+                    "459800",
+                    "473899",
+                    "475558",
+                    "496655",
+                    "512691",
+                    "512727",
+                    "517724",
+                    "524148",
+                    "542747",
+                    "547042",
+                    "552012",
+                    "552360"
+                ]
+            }
+        },
+        "RIYAD BANK": {
+            "info": {
+                "short_name": "riyadbank",
+                "ToShowName": "Riyad Bank",
+                "official_name": "RIYAD BANK",
+                "country": "sa",
+                "swift_code": "RIBLSARI"
+            },
+            "contact": {
+                "website": "https://riyadbank.com",
+                "customer_service": "+966 114013030",
+                "email": "customercare@riyadbank.com"
+            },
+            "brand": {
+                "logo": "sa/Riyad/logo.png",
+                "icon": "sa/Riyad/icon.png",
+                "brand_main_color": "#230871",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#EFF1FE",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#000000"
+            },
+            "data": {
+                "bins": [
+                    "433952",
+                    "435240",
+                    "448509",
+                    "454683",
+                    "454684",
+                    "457927",
+                    "490917",
+                    "514932",
+                    "517531",
+                    "520089",
+                    "520090",
+                    "524514",
+                    "529741",
+                    "535989",
+                    "536023",
+                    "537767",
+                    "539859",
+                    "541679",
+                    "541802",
+                    "541988",
+                    "545855",
+                    "545880",
+                    "548322",
+                    "548323",
+                    "559322"
+                ]
+            }
+        },
+        "SAUDI BRITISH BANK, THE": {
+            "info": {
+                "short_name": "sab",
+                "ToShowName": "SAB - Saudi Awwal Bank",
+                "official_name": "SAUDI BRITISH BANK, THE",
+                "country": "sa",
+                "swift_code": "SABBSARI"
+            },
+            "contact": {
+                "website": "https://sabb.com",
+                "customer_service": "+966 114062800",
+                "email": ""
+            },
+            "brand": {
+                "logo": "sa/sab/logo.png",
+                "icon": "sa/sab/icon.png",
+                "brand_main_color": "#D22630",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#D22630",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "414478",
+                    "422818",
+                    "422819",
+                    "427222",
+                    "433786",
+                    "455058",
+                    "455310",
+                    "455340",
+                    "455389",
+                    "456891",
+                    "456893",
+                    "490160",
+                    "512060",
+                    "522139",
+                    "524165",
+                    "530843",
+                    "533172",
+                    "539931",
+                    "540236",
+                    "541653",
+                    "542008",
+                    "543199",
+                    "543408",
+                    "545297",
+                    "546755",
+                    "546756",
+                    "546757",
+                    "547645",
+                    "548350",
+                    "548979",
+                    "549799",
+                    "552375",
+                    "552438",
+                    "557606",
+                    "558848",
+                    "558854"
+                ]
+            }
+        },
+        "SAMBA FINANCIAL GROUP": {
+            "info": {
+                "short_name": "samba",
+                "ToShowName": "Samba Bank",
+                "official_name": "SAMBA FINANCIAL GROUP",
+                "country": "sa",
+                "swift_code": "SAMBSARI"
+            },
+            "contact": {
+                "website": "https://samba.com.pk",
+                "customer_service": "+966 118382000",
+                "email": ""
+            },
+            "brand": {
+                "logo": "sa/Samba/logo.png",
+                "icon": "sa/Samba/icon.png",
+                "brand_main_color": "#0EA6E5",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#0EA6E5",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "402106",
+                    "402112",
+                    "433987",
+                    "433988",
+                    "450766",
+                    "454335",
+                    "454336",
+                    "455020",
+                    "459242",
+                    "477983",
+                    "496649",
+                    "523970",
+                    "528479",
+                    "530906",
+                    "531095",
+                    "532013",
+                    "537799",
+                    "540000",
+                    "540902",
+                    "542805",
+                    "543683",
+                    "544229",
+                    "544873",
+                    "552089",
+                    "552250"
+                ]
+            }
+        },
+        "SAUDI HOLLANDI BANK": {
+            "info": {
+                "short_name": "samba",
+                "ToShowName": "Saudi Hollandi/Alawwal Bank",
+                "official_name": "SAUDI HOLLANDI BANK",
+                "country": "sa",
+                "swift_code": "AAALSARI"
+            },
+            "contact": {
+                "website": "https://shb.com.sa",
+                "customer_service": "+966 114630584",
+                "email": ""
+            },
+            "brand": {
+                "logo": "sa/Saudi_Hollandi/logo.png",
+                "icon": "sa/Saudi_Hollandi/icon.png",
+                "brand_main_color": "#00AB96",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#424348",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "406485",
+                    "411166",
+                    "411167",
+                    "412518",
+                    "416041",
+                    "416042",
+                    "427733",
+                    "427739",
+                    "454660",
+                    "490745",
+                    "493428",
+                    "548349",
+                    "558705"
+                ]
+            }
+        },
+        "NATIONAL COMMERCIAL BANK, THE": {
+            "info": {
+                "short_name": "snb",
+                "ToShowName": "SNB - Saudi National Bank",
+                "official_name": "NATIONAL COMMERCIAL BANK, THE",
+                "country": "sa",
+                "swift_code": "NCBKSAJE"
+            },
+            "contact": {
+                "website": "https://shb.com.sa",
+                "customer_service": "",
+                "email": "contactus@alahli.com"
+            },
+            "brand": {
+                "logo": "sa/SNB/logo.png",
+                "icon": "sa/SNB/icon.png",
+                "brand_main_color": "#204C3D",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#204C3D",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "400399",
+                    "404116",
+                    "412113",
+                    "414026",
+                    "417487",
+                    "417490",
+                    "422862",
+                    "430258",
+                    "430259",
+                    "430260",
+                    "430262",
+                    "433347",
+                    "483178",
+                    "485005",
+                    "485042",
+                    "491797",
+                    "492145",
+                    "492146",
+                    "512464",
+                    "517720",
+                    "518694",
+                    "519310",
+                    "519341",
+                    "521031",
+                    "523954",
+                    "523968",
+                    "523998",
+                    "524116",
+                    "524197",
+                    "524388",
+                    "525688",
+                    "532166",
+                    "532446",
+                    "532448",
+                    "533964",
+                    "534186",
+                    "536369",
+                    "539034",
+                    "539035",
+                    "540613",
+                    "541891",
+                    "544217",
+                    "544744",
+                    "545205",
+                    "546336",
+                    "546631",
+                    "548255",
+                    "549699",
+                    "549954",
+                    "552075",
+                    "552077",
+                    "556675",
+                    "556676"
+                ]
+            }
+        },
+        "SAUDI INVESTMENT BANK, THE": {
+            "info": {
+                "short_name": "saib",
+                "ToShowName": "SAIB - The Saudi Investment Bank",
+                "official_name": "SAUDI INVESTMENT BANK, THE",
+                "country": "sa",
+                "swift_code": "SIBCSARI"
+            },
+            "contact": {
+                "website": "http://saib.com.sa",
+                "customer_service": "",
+                "email": ""
+            },
+            "brand": {
+                "logo": "sa/The_Saudi_Investment_Bank/logo.png",
+                "icon": "sa/The_Saudi_Investment_Bank/icon.png",
+                "brand_main_color": "#FFCD00",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#FFCD00",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#000000"
+            },
+            "data": {
+                "bins": [
+                    "440629",
+                    "440630",
+                    "440631",
+                    "457840",
+                    "457841",
+                    "457842",
+                    "457843",
+                    "469616",
+                    "476815",
+                    "478295",
+                    "478296",
+                    "483009",
+                    "483010",
+                    "483011",
+                    "483012",
+                    "524205",
+                    "529298",
+                    "542373",
+                    "552384"
+                ]
+            }
+        },
+        "STC PAY": {
+            "info": {
+                "short_name": "stc",
+                "ToShowName": "STC Pay",
+                "official_name": "STC PAY",
+                "country": "sa",
+                "swift_code": "STCOSARI"
+            },
+            "contact": {
+                "website": "https://stcpay.com.sa",
+                "customer_service": "+966 920011444",
+                "email": "info@stcpay.com.sa"
+            },
+            "brand": {
+                "logo": "sa/STC/logo.png",
+                "icon": "sa/STC/icon.png",
+                "brand_main_color": "#4F008C",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#4F008C",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#03BD8C"
+            },
+            "data": {
+                "bins": []
+            }
+        }
+    }
+}

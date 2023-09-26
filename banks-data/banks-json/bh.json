@@ -1,0 +1,439 @@
+{
+    "bh": {
+        "AHLI UNITED BANK B.S.C.": {
+            "info": {
+                "short_name": "ahli united bank of kuwait",
+                "ToShowName": "Ahli United Bank of Kuwait",
+                "official_name": "AHLI UNITED BANK B.S.C.",
+                "country": "bh",
+                "swift_code": "AUBBBHBM"
+            },
+            "contact": {
+                "website": "https://ahliunited.com.kw",
+                "customer_service": "",
+                "email": "hayakom@ahliunited.com"
+            },
+            "brand": {
+                "logo": "bh/AhliUnitedBankofKuwait/logo.png",
+                "icon": "bh/AhliUnitedBankofKuwait/icon.png",
+                "brand_main_color": "#0E7096",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#0E7096",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "415078",
+                    "415079",
+                    "428973",
+                    "432118",
+                    "468546",
+                    "468547",
+                    "523443",
+                    "532677",
+                    "539711",
+                    "544097",
+                    "545070",
+                    "557668",
+                    "559592"
+                ]
+            }
+        },
+        "ALBARAKA BANKING GROUP": {
+            "info": {
+                "short_name": "al baraka bank",
+                "ToShowName": "Al Baraka bank",
+                "official_name": "ALBARAKA BANKING GROUP",
+                "country": "bh",
+                "swift_code": "AUBBBHBM"
+            },
+            "contact": {
+                "website": "https://albaraka.bh",
+                "customer_service": "+973 13300400",
+                "email": "customer_care@albaraka.bh"
+            },
+            "brand": {
+                "logo": "bh/AlBarakaBankingGroup/logo.png",
+                "icon": "bh/AlBarakaBankingGroup/icon.png",
+                "brand_main_color": "#FFFFFF",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#FFFFFF",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#000000"
+            },
+            "data": {
+                "bins": [
+                    "511659",
+                    "529070",
+                    "537995",
+                    "543712",
+                    "543719",
+                    "543752",
+                    "543774",
+                    "554969",
+                    "555931"
+                ]
+            }
+        },
+        "ARAB BANKING CORPORATION (B.S.C.)": {
+            "info": {
+                "short_name": "abc",
+                "ToShowName": "Bank ABC",
+                "official_name": "ARAB BANKING CORPORATION (B.S.C.)",
+                "country": "bh",
+                "swift_code": "ABCOBHBM"
+            },
+            "contact": {
+                "website": "https://bank-abc.com",
+                "customer_service": "+973 17543000",
+                "email": "webmaster@bank-abc.com"
+            },
+            "brand": {
+                "logo": "bh/arab-banking-corporation/logo.png",
+                "icon": "bh/arab-banking-corporation/icon.png",
+                "brand_main_color": "#5fd0df",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#7C7B7C",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "BAHRAIN DEVELOPMENT BANK B S C (C)": {
+            "info": {
+                "short_name": "bdb",
+                "ToShowName": "BDB - Bahrain Development Bank",
+                "official_name": "BAHRAIN DEVELOPMENT BANK B S C (C)",
+                "country": "bh",
+                "swift_code": "BDBBBHBM"
+            },
+            "contact": {
+                "website": "https://bdb-bh.com",
+                "customer_service": "+973 17511111",
+                "email": "investmentdivision@bdb-bh.com"
+            },
+            "brand": {
+                "logo": "bh/BahrainDevelopmentBank/logo.png",
+                "icon": "bh/BahrainDevelopmentBank/icon.png",
+                "brand_main_color": "#F68B1F",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#F68B1F",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "BAHRAIN ISLAMIC BANK B.S.C.": {
+            "info": {
+                "short_name": "bisb",
+                "ToShowName": "BISB - Bahrain Islamic Bank",
+                "official_name": "BAHRAIN ISLAMIC BANK B.S.C.",
+                "country": "bh",
+                "swift_code": "BIBBBHBM"
+            },
+            "contact": {
+                "website": "https://bisb.com",
+                "customer_service": "+973 17515151",
+                "email": "callcentre@bisb.com"
+            },
+            "brand": {
+                "logo": "bh/BahrainIslamicBank/logo.png",
+                "icon": "bh/BahrainIslamicBank/icon.png",
+                "brand_main_color": "#522B79",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#522B79",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "403207",
+                    "407470",
+                    "407710",
+                    "407775",
+                    "413742",
+                    "413743",
+                    "413744",
+                    "413745",
+                    "415286",
+                    "415656",
+                    "438990",
+                    "438996",
+                    "454522",
+                    "524500",
+                    "528954",
+                    "529283",
+                    "547019"
+                ]
+            }
+        },
+        "BANK OF BAHRAIN AND KUWAIT B.S.C.": {
+            "info": {
+                "short_name": "bbk",
+                "ToShowName": "BBK - Bank of Bahrain and Kuwait",
+                "official_name": "BANK OF BAHRAIN AND KUWAIT B.S.C.",
+                "country": "bh",
+                "swift_code": "BBKUBHBM"
+            },
+            "contact": {
+                "website": "https://bbkonline.com",
+                "customer_service": "+973 17207777",
+                "email": "customerservice@bbkonline.com"
+            },
+            "brand": {
+                "logo": "bh/BankofBahrainandKuwait/logo.png",
+                "icon": "bh/BankofBahrainandKuwait/icon.png",
+                "brand_main_color": "#faa635",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#0693e3",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "440250",
+                    "441555",
+                    "455012",
+                    "455013",
+                    "457555",
+                    "484555",
+                    "488978",
+                    "489555"
+                ]
+            }
+        },
+        "GULF FINANCE HOUSE": {
+            "info": {
+                "short_name": "gfh",
+                "ToShowName": "GFH - Gulf Finance House",
+                "official_name": "GULF FINANCE HOUSE",
+                "country": "bh",
+                "swift_code": "GFHIBHBM"
+            },
+            "contact": {
+                "website": "https://gfh.com",
+                "customer_service": "+973 17538538",
+                "email": "complaint@gfh.com"
+            },
+            "brand": {
+                "logo": "bh/GFH/logo.png",
+                "icon": "bh/GFH/icon.png",
+                "brand_main_color": "#e11931",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#e11931",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "GULF INTERNATIONAL BANK, B.S.C.": {
+            "info": {
+                "short_name": "gib",
+                "ToShowName": "GIB - Gulf International Bank",
+                "official_name": "GULF INTERNATIONAL BANK, B.S.C.",
+                "country": "bh",
+                "swift_code": "GULFBHBM"
+            },
+            "contact": {
+                "website": "https://gib.com",
+                "customer_service": "+973 17534000",
+                "email": "customercare@gibcapital.com"
+            },
+            "brand": {
+                "logo": "bh/GIB/logo.png",
+                "icon": "bh/GIB/icon.png",
+                "brand_main_color": "#53565A",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#53565A",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "439956"
+                ]
+            }
+        },
+        "ITHMAAR BANK B.S.C.": {
+            "info": {
+                "short_name": "ithmaar",
+                "ToShowName": "Ithmaar Bank",
+                "official_name": "ITHMAAR BANK B.S.C.",
+                "country": "bh",
+                "swift_code": "FIBHBHBM"
+            },
+            "contact": {
+                "website": "https://ithmaarbank.com",
+                "customer_service": "+973 13303030",
+                "email": ""
+            },
+            "brand": {
+                "logo": "bh/IthmaarBank/logo.png",
+                "icon": "bh/IthmaarBank/icon.png",
+                "brand_main_color": "#C41230",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#C41230",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "510375",
+                    "512008",
+                    "517512",
+                    "518867",
+                    "524124",
+                    "532714",
+                    "546024",
+                    "546758",
+                    "548108",
+                    "548109",
+                    "548110",
+                    "548111",
+                    "548542",
+                    "555926"
+                ]
+            }
+        },
+        "KHALEEJI COMMERCIAL BANK B.S.C. (C)": {
+            "info": {
+                "short_name": "khaleeji",
+                "ToShowName": "Khaleeji Commercial",
+                "official_name": "KHALEEJI COMMERCIAL BANK B.S.C. (C)",
+                "country": "bh",
+                "swift_code": "KHCBBHBM"
+            },
+            "contact": {
+                "website": "https://khaleeji.bank",
+                "customer_service": "+973 17540054",
+                "email": "support@khaleeji.bank"
+            },
+            "brand": {
+                "logo": "bh/KhaleejiCommercialBank/logo.png",
+                "icon": "bh/KhaleejiCommercialBank/icon.png",
+                "brand_main_color": "#333C42",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#393D41",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "415464",
+                    "437334",
+                    "471397",
+                    "471398",
+                    "471399",
+                    "471400",
+                    "472295"
+                ]
+            }
+        },
+        "NATIONAL BANK OF BAHRAIN": {
+            "info": {
+                "short_name": "nbb",
+                "ToShowName": "NBB - National Bank of Bahrain",
+                "official_name": "NATIONAL BANK OF BAHRAIN",
+                "country": "bh",
+                "swift_code": "NBOBBHBM"
+            },
+            "contact": {
+                "website": "http://nbbonline.com",
+                "customer_service": "+973 17214433",
+                "email": "nbb@nbbonline.com"
+            },
+            "brand": {
+                "logo": "bh/NBB/logo.png",
+                "icon": "bh/NBB/icon.png",
+                "brand_main_color": "#CF001C",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#901D1F",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "412478",
+                    "437397",
+                    "450828",
+                    "450829",
+                    "479090",
+                    "522018",
+                    "524259",
+                    "527432",
+                    "540729",
+                    "543256"
+                ]
+            }
+        },
+        "RAFIDAIN BANK": {
+            "info": {
+                "short_name": "rafidain",
+                "ToShowName": "Rafidain Bank",
+                "official_name": "RAFIDAIN BANK",
+                "country": "bh",
+                "swift_code": "RAFBBHBM"
+            },
+            "contact": {
+                "website": "https://rafidain-bank.gov.iq",
+                "customer_service": "",
+                "email": ""
+            },
+            "brand": {
+                "logo": "bh/Rafidain/logo.png",
+                "icon": "bh/Rafidain/icon.png",
+                "brand_main_color": "#05750A",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#05750A",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        }
+    }
+}

@@ -1,0 +1,281 @@
+{
+    "sy": {
+        "BANK OF SYRIA AND OVERSEAS": {
+            "info": {
+                "short_name": "bso",
+                "ToShowName": "BSO - Bank of Syria and Overseas",
+                "official_name": "BANK OF SYRIA AND OVERSEAS",
+                "country": "sy",
+                "swift_code": "BSOMSYDA"
+            },
+            "contact": {
+                "website": "https://bso.com.sy",
+                "customer_service": "",
+                "email": "bsomail@bso.com.sy"
+            },
+            "brand": {
+                "logo": "sy/BankofSyriaandOverseas/logo.png",
+                "icon": "sy/BankofSyriaandOverseas/icon.png",
+                "brand_main_color": "#2B6CB0",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#FFFFFF",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#333030"
+            },
+            "data": {
+                "bins": [
+                    "428648",
+                    "429950",
+                    "429951"
+                ]
+            }
+        },
+        "BANQUE BEMO SAUDI FRANSI S.A.": {
+            "info": {
+                "short_name": "bbsf",
+                "ToShowName": "BBSF - Banque Bemo Saudi Fransi",
+                "official_name": "BANQUE BEMO SAUDI FRANSI S.A.",
+                "country": "sy",
+                "swift_code": "BBSFSYDA"
+            },
+            "contact": {
+                "website": "https://bbsfbank.com",
+                "customer_service": "+963 113020",
+                "email": ""
+            },
+            "brand": {
+                "logo": "sy/BanqueBemoSaudiFransi/logo.png",
+                "icon": "sy/BanqueBemoSaudiFransi/icon.png",
+                "brand_main_color": "#47B6E4",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#FFFFFF",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#333030"
+            },
+            "data": {
+                "bins": [
+                    "418740",
+                    "418741"
+                ]
+            }
+        },
+        "BYBLOS BANK SYRIA SA": {
+            "info": {
+                "short_name": "byblos",
+                "ToShowName": "Byblos Bank",
+                "official_name": "BYBLOS BANK SYRIA SA",
+                "country": "sy",
+                "swift_code": "BYBASYDA"
+            },
+            "contact": {
+                "website": "https://byblosbank.com",
+                "customer_service": "+961 1205050",
+                "email": "customerservice@byblosbank.com.lb"
+            },
+            "brand": {
+                "logo": "sy/byblos/logo.png",
+                "icon": "sy/byblos/icon.png",
+                "brand_main_color": "#461D6E",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#461D6E",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#EABB00"
+            },
+            "data": {
+                "bins": [
+                    "426805",
+                    "426806",
+                    "459047",
+                    "557952"
+                ]
+            }
+        },
+        "CHAM BANK": {
+            "info": {
+                "short_name": "cham",
+                "ToShowName": "Cham Bank",
+                "official_name": "CHAM BANK",
+                "country": "sy",
+                "swift_code": "CHMMSYDA"
+            },
+            "contact": {
+                "website": "https://chambank.com",
+                "customer_service": "+963 119398",
+                "email": "info@chambank.sy"
+            },
+            "brand": {
+                "logo": "sy/ChamBank/logo.png",
+                "icon": "sy/ChamBank/icon.png",
+                "brand_main_color": "#6F1100",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#A5091E",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#FFFFFF"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "COMMERCIAL BANK OF SYRIA": {
+            "info": {
+                "short_name": "cbs",
+                "ToShowName": "CBS - Commercial Bank of Syria",
+                "official_name": "COMMERCIAL BANK OF SYRIA",
+                "country": "sy",
+                "swift_code": "CMSYSYDA"
+            },
+            "contact": {
+                "website": "https://cbs-bank.sy",
+                "customer_service": "",
+                "email": "info@cbs-bank.sy"
+            },
+            "brand": {
+                "logo": "sy/CommercialBankofSyria/logo.png",
+                "icon": "sy/CommercialBankofSyria/icon.png",
+                "brand_main_color": "#A28139",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#035F86",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#000000"
+            },
+            "data": {
+                "bins": [
+                    "417319",
+                    "424131",
+                    "427200"
+                ]
+            }
+        },
+        "INTERNATIONAL BANK FOR TRADE AND FINANCE, THE": {
+            "info": {
+                "short_name": "emis",
+                "ToShowName": "EMIS - International Bank for Trade & FinanceSA",
+                "official_name": "INTERNATIONAL BANK FOR TRADE AND FINANCE, THE",
+                "country": "sy",
+                "swift_code": "GBTFSYDA"
+            },
+            "contact": {
+                "website": "https://ibtf-sy.com",
+                "customer_service": "",
+                "email": "info@ibtf.com.sy"
+            },
+            "brand": {
+                "logo": "sy/InternationalBankforTrade&FinanceSA/logo.png",
+                "icon": "sy/InternationalBankforTrade&FinanceSA/icon.png",
+                "brand_main_color": "#123482",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#234390",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "SYRIA INTERNATIONAL ISLAMIC BANK": {
+            "info": {
+                "short_name": "nib",
+                "ToShowName": "NIB - International Islamic Bank",
+                "official_name": "SYRIA INTERNATIONAL ISLAMIC BANK",
+                "country": "sy",
+                "swift_code": "SIIBSYDA"
+            },
+            "contact": {
+                "website": "https://nib.com.sy",
+                "customer_service": "+963 118086",
+                "email": "info@nib.com.sy"
+            },
+            "brand": {
+                "logo": "sy/NationalIslamicBank/logo.png",
+                "icon": "sy/NationalIslamicBank/icon.png",
+                "brand_main_color": "#2E3968",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#2E3968",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#fff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "ISLAMIC INTERNATIONAL ARAB BANK": {
+            "info": {
+                "short_name": "siib",
+                "ToShowName": "SIIB - Syria International Islamic Bank",
+                "official_name": "ISLAMIC INTERNATIONAL ARAB BANK",
+                "country": "sy",
+                "swift_code": "IIBAJOAM200"
+            },
+            "contact": {
+                "website": "https://siib.sy",
+                "customer_service": "",
+                "email": "info@siib.sy"
+            },
+            "brand": {
+                "logo": "sy/SyriaInternationalIslamicBank/logo.png",
+                "icon": "sy/SyriaInternationalIslamicBank/icon.png",
+                "brand_main_color": "#2D3E50",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#2D3E50",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#fff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "SYRIA GULF BANK, S.A.": {
+            "info": {
+                "short_name": "usip",
+                "ToShowName": "USIP - Syria gulf",
+                "official_name": "SYRIA GULF BANK, S.A.",
+                "country": "sy",
+                "swift_code": "SGBSSYDA"
+            },
+            "contact": {
+                "website": "https://sgbsy.com",
+                "customer_service": "",
+                "email": ""
+            },
+            "brand": {
+                "logo": "sy/syriagulf/logo.png",
+                "icon": "sy/syriagulf/icon.png",
+                "brand_main_color": "#195A87",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#99C3E7",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#000000"
+            },
+            "data": {
+                "bins": []
+            }
+        }
+    }
+}

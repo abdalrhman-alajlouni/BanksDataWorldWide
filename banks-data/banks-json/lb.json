@@ -1,0 +1,873 @@
+{
+    "lb": {
+        "ARAB FINANCE HOUSE SAL (ISLAMIC BANK)": {
+            "info": {
+                "short_name": "afh",
+                "ToShowName": "AFH - Arab Finance House (Islamic Bank)",
+                "official_name": "ARAB FINANCE HOUSE SAL (ISLAMIC BANK)",
+                "country": "lb",
+                "swift_code": "AFHOLBBE"
+            },
+            "contact": {
+                "website": "https://afh.com.lb",
+                "customer_service": "+961 1708100",
+                "email": "info@afh.com.lb"
+            },
+            "brand": {
+                "logo": "lb/ArabFinanceHouse/logo.png",
+                "icon": "lb/ArabFinanceHouse/icon.png",
+                "brand_main_color": "#812F1A",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#812F1A",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "BANK AUDI SAL - AUDI SARADAR GROUP": {
+            "info": {
+                "short_name": "bankaudi",
+                "ToShowName": "Bank Audi",
+                "official_name": "BANK AUDI SAL - AUDI SARADAR GROUP",
+                "country": "lb",
+                "swift_code": "AUDBLBB"
+            },
+            "contact": {
+                "website": "https://bankaudi.com.lb",
+                "customer_service": "+961 1212120",
+                "email": "contactus@bankaudi.com.lb"
+            },
+            "brand": {
+                "logo": "lb/BankAudi/logo.png",
+                "icon": "lb/BankAudi/icon.png",
+                "brand_main_color": "#E6E6E6",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#ffffff",
+                "card_color_gradient": "#cdcdcd",
+                "card_text_color": "#000000"
+            },
+            "data": {
+                "bins": [
+                    "404950",
+                    "407448",
+                    "410769",
+                    "412588",
+                    "414057",
+                    "417344",
+                    "420283",
+                    "421970",
+                    "429940",
+                    "429949",
+                    "431716",
+                    "440546",
+                    "440714",
+                    "440715",
+                    "440717",
+                    "440718",
+                    "440789",
+                    "457831",
+                    "460333",
+                    "465275",
+                    "474185",
+                    "484882",
+                    "512052",
+                    "512061",
+                    "512373",
+                    "514028",
+                    "514075",
+                    "514076",
+                    "515488",
+                    "516073",
+                    "518485",
+                    "518493",
+                    "519316",
+                    "519964",
+                    "520398",
+                    "521072",
+                    "522197",
+                    "522986",
+                    "523485",
+                    "524062",
+                    "524103",
+                    "524145",
+                    "524350",
+                    "524668",
+                    "525851",
+                    "526253",
+                    "526405",
+                    "526406",
+                    "526407",
+                    "526409",
+                    "526432",
+                    "526486",
+                    "526909",
+                    "528646",
+                    "529223",
+                    "529722",
+                    "529724",
+                    "529954",
+                    "531653",
+                    "533984",
+                    "534398",
+                    "534421",
+                    "542789",
+                    "543142",
+                    "543245",
+                    "545496",
+                    "545560",
+                    "547036",
+                    "549543",
+                    "552258",
+                    "552275",
+                    "552304",
+                    "552868",
+                    "553595",
+                    "554928",
+                    "555218"
+                ]
+            }
+        },
+        "BANKMED,SAL": {
+            "info": {
+                "short_name": "bankmed",
+                "ToShowName": "Bank Med",
+                "official_name": "BANKMED,SAL",
+                "country": "lb",
+                "swift_code": "MEDLLBBX"
+            },
+            "contact": {
+                "website": "https://bankmed.com.lb",
+                "customer_service": "+961 1708090",
+                "email": ""
+            },
+            "brand": {
+                "logo": "lb/Bankmed/logo.png",
+                "icon": "lb/Bankmed/icon.png",
+                "brand_main_color": "#15468F",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#15468F",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "410736",
+                    "410737",
+                    "410790",
+                    "417350",
+                    "418822",
+                    "418825",
+                    "418828",
+                    "418856",
+                    "423832",
+                    "423899",
+                    "429110",
+                    "429111",
+                    "433808",
+                    "433825",
+                    "457527",
+                    "464401",
+                    "464402",
+                    "464403",
+                    "464418",
+                    "464493",
+                    "464499",
+                    "471483",
+                    "476015",
+                    "489093",
+                    "529128",
+                    "541261",
+                    "544091",
+                    "547850",
+                    "549836"
+                ]
+            }
+        },
+        "BANK OF BEIRUT S.A.L.": {
+            "info": {
+                "short_name": "bankofbeirut",
+                "ToShowName": "Bank of Beirut",
+                "official_name": "BANK OF BEIRUT S.A.L.",
+                "country": "lb",
+                "swift_code": "BABELBBE"
+            },
+            "contact": {
+                "website": "https://bankofbeirut.com",
+                "customer_service": "+961 5955262",
+                "email": "bobdirect@bankofbeirut.com.lb"
+            },
+            "brand": {
+                "logo": "lb/BankofBeirut/logo.png",
+                "icon": "lb/BankofBeirut/icon.png",
+                "brand_main_color": "#00AEDB",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#00AEDB",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "409786",
+                    "409787",
+                    "409791",
+                    "409792",
+                    "409793",
+                    "416976",
+                    "428745",
+                    "433813",
+                    "433836",
+                    "447316",
+                    "447317",
+                    "447390",
+                    "469515",
+                    "469532",
+                    "469581",
+                    "469582",
+                    "489009",
+                    "515773",
+                    "520065",
+                    "520433",
+                    "533781",
+                    "533782",
+                    "533783",
+                    "536923",
+                    "536926",
+                    "550023"
+                ]
+            }
+        },
+        "BANQUE LIBANO FRANCAISE": {
+            "info": {
+                "short_name": "eblf",
+                "ToShowName": "EBLF - Banque Libano Francaise",
+                "official_name": "BANQUE LIBANO FRANCAISE",
+                "country": "lb",
+                "swift_code": "BLFSLBBX"
+            },
+            "contact": {
+                "website": "https://eblf.com",
+                "customer_service": "+961 1560561",
+                "email": "info@eblf.com"
+            },
+            "brand": {
+                "logo": "lb/BanqueLibanoFran\u00e7aiseS.A.L/logo.png",
+                "icon": "lb/BanqueLibanoFran\u00e7aiseS.A.L/icon.png",
+                "brand_main_color": "#9F2540",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#9F2540",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "402974",
+                    "408458",
+                    "409854",
+                    "418804",
+                    "445556",
+                    "445557",
+                    "445558",
+                    "445559",
+                    "446523",
+                    "462214",
+                    "462215",
+                    "463470",
+                    "465222",
+                    "485015",
+                    "490951",
+                    "490952",
+                    "490953",
+                    "490954",
+                    "490955",
+                    "490956",
+                    "516475",
+                    "530540",
+                    "530761",
+                    "530762",
+                    "530763",
+                    "530764",
+                    "530765",
+                    "535967",
+                    "539096",
+                    "548920",
+                    "557630"
+                ]
+            }
+        },
+        "BBAC SAL": {
+            "info": {
+                "short_name": "bbac",
+                "ToShowName": "BBAC - bank",
+                "official_name": "BBAC SAL",
+                "country": "lb",
+                "swift_code": "BBACLBBX"
+            },
+            "contact": {
+                "website": "https://bbacbank.com",
+                "customer_service": "+961 1366921",
+                "email": "customercare@bbac.com.lb"
+            },
+            "brand": {
+                "logo": "lb/BBAC/logo.png",
+                "icon": "lb/BBAC/icon.png",
+                "brand_main_color": "#1A1347",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#1A1347",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "404354",
+                    "404355",
+                    "404357",
+                    "440662",
+                    "440663",
+                    "448319",
+                    "465223",
+                    "465224",
+                    "465244",
+                    "465271",
+                    "465282",
+                    "476522",
+                    "510085",
+                    "517941",
+                    "517994",
+                    "518107",
+                    "526774"
+                ]
+            }
+        },
+        "B.L.C. BANK S.A.L.": {
+            "info": {
+                "short_name": "blc",
+                "ToShowName": "BLC Bank",
+                "official_name": "B.L.C. BANK S.A.L.",
+                "country": "lb",
+                "swift_code": "LICOLBBX"
+            },
+            "contact": {
+                "website": "https://blcbank.com",
+                "customer_service": "+961 387000",
+                "email": "dpo@blcbank.com"
+            },
+            "brand": {
+                "logo": "lb/blcbank/logo.png",
+                "icon": "lb/blcbank/icon.png",
+                "brand_main_color": "#EE3924",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#EE3924",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "528003",
+                    "541876",
+                    "543937",
+                    "552231",
+                    "554485",
+                    "554516"
+                ]
+            }
+        },
+        "BLOM BANK S.A.L.": {
+            "info": {
+                "short_name": "blom",
+                "ToShowName": "BLOM Bank",
+                "official_name": "BLOM BANK S.A.L.",
+                "country": "lb",
+                "swift_code": "BLOMLBBX"
+            },
+            "contact": {
+                "website": "https://blombank.com",
+                "customer_service": "+961 1758000",
+                "email": "tripolitell@blom.com.lb"
+            },
+            "brand": {
+                "logo": "lb/BLOMBank/logo.png",
+                "icon": "lb/BLOMBank/icon.png",
+                "brand_main_color": "#024A94",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#024A94",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "401352",
+                    "402485",
+                    "411654",
+                    "413050",
+                    "414566",
+                    "425179",
+                    "425681",
+                    "429816",
+                    "440545",
+                    "440786",
+                    "440788",
+                    "445150",
+                    "462018",
+                    "462211",
+                    "462212",
+                    "465561",
+                    "469398",
+                    "470351",
+                    "476873",
+                    "487052",
+                    "487952",
+                    "514443",
+                    "520771",
+                    "522053",
+                    "522133",
+                    "523408",
+                    "524065",
+                    "524334",
+                    "524520",
+                    "528496",
+                    "531279",
+                    "537163",
+                    "542845",
+                    "545641",
+                    "545642",
+                    "552108",
+                    "554688",
+                    "555376",
+                    "557681"
+                ]
+            }
+        },
+        "BANQUE MISR LIBAN S.A.L.": {
+            "info": {
+                "short_name": "bml",
+                "ToShowName": "BML - Bank of Maldives",
+                "official_name": "BANQUE MISR LIBAN S.A.L.",
+                "country": "lb",
+                "swift_code": "BMISLBBE"
+            },
+            "contact": {
+                "website": "https://bml.com.lb",
+                "customer_service": "+961 4727400",
+                "email": "tripolitell@blom.com.lb"
+            },
+            "brand": {
+                "logo": "lb/BML/logo.png",
+                "icon": "lb/BML/icon.png",
+                "brand_main_color": "#EC1C23",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#EC1C23",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "CREDIT LIBANAIS S.A.L.": {
+            "info": {
+                "short_name": "creditlibanais",
+                "ToShowName": "Credit Libanais Ghobeiry",
+                "official_name": "CREDIT LIBANAIS S.A.L.",
+                "country": "lb",
+                "swift_code": "CLIBLBBX"
+            },
+            "contact": {
+                "website": "https://creditlibanais.com.lb",
+                "customer_service": "+961 1607100",
+                "email": "icon-tel info@cl.com.lb"
+            },
+            "brand": {
+                "logo": "lb/CreditLibanaisGhobeiry/logo.png",
+                "icon": "lb/CreditLibanaisGhobeiry/icon.png",
+                "brand_main_color": "#E31818",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#E31818",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "404359",
+                    "404847",
+                    "409735",
+                    "409736",
+                    "409737",
+                    "409738",
+                    "412766",
+                    "412767",
+                    "414614",
+                    "414693",
+                    "414694",
+                    "414695",
+                    "415302",
+                    "415303",
+                    "415349",
+                    "416901",
+                    "417082",
+                    "417255",
+                    "417486",
+                    "417734",
+                    "417735",
+                    "418089",
+                    "418899",
+                    "424534",
+                    "424565",
+                    "426867",
+                    "426868",
+                    "426869",
+                    "426870",
+                    "428229",
+                    "428230",
+                    "428231",
+                    "429559",
+                    "429927",
+                    "429928",
+                    "429929",
+                    "432556",
+                    "433007",
+                    "433008",
+                    "433803",
+                    "433811",
+                    "433814",
+                    "437494",
+                    "437495",
+                    "439962",
+                    "440033",
+                    "440038",
+                    "443182",
+                    "447180",
+                    "448339",
+                    "456078",
+                    "457285",
+                    "464456",
+                    "464457",
+                    "472266",
+                    "474141",
+                    "474142",
+                    "474143",
+                    "474144",
+                    "477508",
+                    "477509",
+                    "478725",
+                    "478730",
+                    "478731",
+                    "478732",
+                    "478733",
+                    "478734",
+                    "478735",
+                    "478740",
+                    "480305",
+                    "480325",
+                    "483952",
+                    "489336",
+                    "491726",
+                    "491772",
+                    "511767",
+                    "512751",
+                    "512798",
+                    "515585",
+                    "517704",
+                    "518059",
+                    "524235",
+                    "527478",
+                    "530031",
+                    "532077",
+                    "534673",
+                    "535821",
+                    "544332",
+                    "544334",
+                    "554600",
+                    "554866"
+                ]
+            }
+        },
+        "FEDERAL BANK OF LEBANON S A L": {
+            "info": {
+                "short_name": "",
+                "ToShowName": "Federal Bank of Lebanon",
+                "official_name": "FEDERAL BANK OF LEBANON S A L",
+                "country": "lb",
+                "swift_code": "FBLELBBX"
+            },
+            "contact": {
+                "website": "",
+                "customer_service": "+961 1212300",
+                "email": "support@federalbank.co.in"
+            },
+            "brand": {
+                "logo": "lb/FederalBankofLebanon/logo.png",
+                "icon": "lb/FederalBankofLebanon/icon.png",
+                "brand_main_color": "#F7007C",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#F7007C",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "FENICIA BANK S.A.L.": {
+            "info": {
+                "short_name": "bkaw",
+                "ToShowName": "BKAW - Fenicia Bank",
+                "official_name": "FENICIA BANK S.A.L.",
+                "country": "lb",
+                "swift_code": "BKAWLBBE"
+            },
+            "contact": {
+                "website": "http://bkawbank.com",
+                "customer_service": "+961 1957857",
+                "email": " info@feniciabank.com"
+            },
+            "brand": {
+                "logo": "lb/FeniciaBank/logo.png",
+                "icon": "lb/FeniciaBank/icon.png",
+                "brand_main_color": "#A71C53",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#A71C53",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "FRANSABANK SAL": {
+            "info": {
+                "short_name": "fransa",
+                "ToShowName": "Fransabank",
+                "official_name": "FRANSABANK SAL",
+                "country": "lb",
+                "swift_code": "FSABLBBX"
+            },
+            "contact": {
+                "website": "https://fransabank.com",
+                "customer_service": "+961 1560561",
+                "email": "customer.experience@eblf.com"
+            },
+            "brand": {
+                "logo": "lb/Fransabank/logo.png",
+                "icon": "lb/Fransabank/icon.png",
+                "brand_main_color": "#0060AC",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#0060AC",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "404605",
+                    "405680",
+                    "410173",
+                    "414617",
+                    "421119",
+                    "424478",
+                    "425194",
+                    "425195",
+                    "439073",
+                    "440568",
+                    "440569",
+                    "458561",
+                    "476028",
+                    "476029",
+                    "476030",
+                    "489337",
+                    "489338",
+                    "510451",
+                    "510459",
+                    "510479",
+                    "510513",
+                    "512252",
+                    "514734",
+                    "526928",
+                    "529977",
+                    "536548",
+                    "537809",
+                    "538980",
+                    "543786",
+                    "546323",
+                    "546328",
+                    "546329",
+                    "547235",
+                    "548178",
+                    "548179",
+                    "548599",
+                    "548881",
+                    "548896",
+                    "548905",
+                    "548916",
+                    "549819",
+                    "552045",
+                    "554276",
+                    "554560",
+                    "557005",
+                    "557778",
+                    "558283",
+                    "558820"
+                ]
+            }
+        },
+        "IBL BANK S.A.L.": {
+            "info": {
+                "short_name": "ibl",
+                "ToShowName": "IBL Bank",
+                "official_name": "IBL BANK S.A.L.",
+                "country": "lb",
+                "swift_code": "INLELBBE"
+            },
+            "contact": {
+                "website": "https://ibl.com.lb",
+                "customer_service": "+961 4727244",
+                "email": "ibl@ibl.com.lb"
+            },
+            "brand": {
+                "logo": "lb/IBLBank/logo.png",
+                "icon": "lb/IBLBank/icon.png",
+                "brand_main_color": "#FD4F00",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#FD4F00",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "484174",
+                    "484175",
+                    "484176"
+                ]
+            }
+        },
+        "LEBANESE SWISS BANK SAL": {
+            "info": {
+                "short_name": "LSB",
+                "ToShowName": "LSB - Lebanese Swiss Bank",
+                "official_name": "LEBANESE SWISS BANK SAL",
+                "country": "lb",
+                "swift_code": "LEBSLBBX"
+            },
+            "contact": {
+                "website": "https://ebanking.lebaneseswissbank.com",
+                "customer_service": "+961 01732000",
+                "email": "cambiodep@lebaneseswissbank.com"
+            },
+            "brand": {
+                "logo": "lb/LebaneseSwissBank/logo.png",
+                "icon": "lb/LebaneseSwissBank/icon.png",
+                "brand_main_color": "#EE3623",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#EE3623",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "LGB BANK SAL": {
+            "info": {
+                "short_name": "lgb",
+                "ToShowName": "LGB - Lebanon Gulf Bank",
+                "official_name": "LGB BANK SAL",
+                "country": "lb",
+                "swift_code": "LGBALBBE"
+            },
+            "contact": {
+                "website": "https://lgbbank.com",
+                "customer_service": "+961 1965000",
+                "email": "info@lgbbank.com"
+            },
+            "brand": {
+                "logo": "lb/Lebanon&GulfBank/logo.png",
+                "icon": "lb/Lebanon&GulfBank/icon.png",
+                "brand_main_color": "#042851",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#042851",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "NORTHEAST BANK": {
+            "info": {
+                "short_name": "northeastbank",
+                "ToShowName": "Northeast Bank",
+                "official_name": "NORTHEAST BANK",
+                "country": "lb",
+                "swift_code": ""
+            },
+            "contact": {
+                "website": "https://northeastbank.com",
+                "customer_service": "",
+                "email": "NORTHEAST BANK"
+            },
+            "brand": {
+                "logo": "lb/northeast/logo.png",
+                "icon": "lb/northeast/icon.png",
+                "brand_main_color": "#1D5F81",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#1D5F81",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        }
+    }
+}

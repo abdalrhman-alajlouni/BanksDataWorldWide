@@ -1,0 +1,33 @@
+{
+    "it": {
+        "BANCA MONTE DEI PASCHI DI SIENA S.P.A.": {
+            "info": {
+                "short_name": "mps",
+                "ToShowName": "MPS - Banca Monte Dei Paschi Di Siena",
+                "official_name": "BANCA MONTE DEI PASCHI DI SIENA S.P.A.",
+                "country": "it",
+                "swift_code": "PASCITMM"
+            },
+            "contact": {
+                "website": "https://mps.it",
+                "customer_service": "+39 0577294111\u200b",
+                "email": "info@mps.it"
+            },
+            "brand": {
+                "logo": "it/BANCAMONTEDEIPASCHIDISIENAS.P.A/logo.png",
+                "icon": "it/BANCAMONTEDEIPASCHIDISIENAS.P.A/icon.png",
+                "brand_main_color": "#99042F",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#99042F",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        }
+    }
+}

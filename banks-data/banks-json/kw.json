@@ -1,0 +1,668 @@
+{
+    "kw": {
+        "AHLI UNITED BANK K.S.C.": {
+            "info": {
+                "short_name": "ahliunited",
+                "ToShowName": "Ahli United Bank of Kuwait",
+                "official_name": "AHLI UNITED BANK K.S.C.",
+                "country": "kw",
+                "swift_code": "BKMEKWKW"
+            },
+            "contact": {
+                "website": "https://ahliunited.com.kw",
+                "customer_service": "+965 22467711",
+                "email": "hayakom@ahliunited.com"
+            },
+            "brand": {
+                "logo": "kw/AhliUnitedBankofKuwait/logo.png",
+                "icon": "kw/AhliUnitedBankofKuwait/icon.png",
+                "brand_main_color": "#00648E",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#00648E",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "431270",
+                    "466719",
+                    "479065",
+                    "479066",
+                    "517735",
+                    "521533",
+                    "527799",
+                    "530348",
+                    "530502",
+                    "532674",
+                    "536322",
+                    "537016",
+                    "540281",
+                    "547045",
+                    "552272",
+                    "554503"
+                ]
+            }
+        },
+        "ALAHLI BANK OF KUWAIT K.S.C.": {
+            "info": {
+                "short_name": "eahli",
+                "ToShowName": "AlAhli Bank of Kuwait",
+                "official_name": "ALAHLI BANK OF KUWAIT K.S.C.",
+                "country": "kw",
+                "swift_code": "ABKKKWKW"
+            },
+            "contact": {
+                "website": "https://eahli.com",
+                "customer_service": "+965 22907222",
+                "email": ""
+            },
+            "brand": {
+                "logo": "kw/AlAhliBankofKuwait/logo.png",
+                "icon": "kw/AlAhliBankofKuwait/icon.png",
+                "brand_main_color": "#0070C3",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#0070C3",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "403622",
+                    "422431",
+                    "423826",
+                    "426669",
+                    "428628",
+                    "450902",
+                    "455016",
+                    "455048",
+                    "455049",
+                    "457925",
+                    "462824",
+                    "473834",
+                    "492190",
+                    "522869",
+                    "524114",
+                    "529072",
+                    "544621",
+                    "544622",
+                    "556638"
+                ]
+            }
+        },
+        "AL RAJHI BANK, KUWAIT": {
+            "info": {
+                "short_name": "eahli",
+                "ToShowName": "Al-Rajhi Bank",
+                "official_name": "AL RAJHI BANK, KUWAIT",
+                "country": "kw",
+                "swift_code": "RJHIKWKW"
+            },
+            "contact": {
+                "website": "https://alrajhibank.com.kw",
+                "customer_service": "1812333",
+                "email": ""
+            },
+            "brand": {
+                "logo": "kw/Al-RajhiBank/logo.png",
+                "icon": "kw/Al-RajhiBank/icon.png",
+                "brand_main_color": "#221AFB",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#221AFB",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "406966",
+                    "433863",
+                    "458583",
+                    "458838",
+                    "458839",
+                    "458840",
+                    "458841",
+                    "458842",
+                    "458843"
+                ]
+            }
+        },
+        "BANK OF BAHRAIN AND KUWAIT B.S.C": {
+            "info": {
+                "short_name": "bbk",
+                "ToShowName": "BBK - Bank of Bahrain and Kuwait",
+                "official_name": "BANK OF BAHRAIN AND KUWAIT B.S.C.",
+                "country": "kw",
+                "swift_code": "null"
+            },
+            "contact": {
+                "website": "https://bbkonline.com.kw",
+                "customer_service": "+965 2223 3600",
+                "email": "customerservice@bbkonline.com"
+            },
+            "brand": {
+                "logo": "kw/BankofBahrainandKuwait/logo.png",
+                "icon": "kw/Al-BankofBahrainandKuwait/icon.png",
+                "brand_main_color": "#04428C",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#04428C",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            }
+        },
+        "BNP PARIBAS KUWAIT": {
+            "info": {
+                "short_name": "bnp",
+                "ToShowName": "BNP - Bank of Bahrain and Kuwait",
+                "official_name": "BNP PARIBAS KUWAIT",
+                "country": "kw",
+                "swift_code": "BNPAKWKW"
+            },
+            "contact": {
+                "website": "https://mea.bnpparibas.com",
+                "customer_service": "+965 2206 6100",
+                "email": "csd.kuwait@bnpparibas.com"
+            },
+            "brand": {
+                "logo": "kw/BNPParibas/logo.png",
+                "icon": "kw/BNPParibas/icon.png",
+                "brand_main_color": "#009360",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#197C4D",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "BOUBYAN BANK (K.S.C)": {
+            "info": {
+                "short_name": "boubyan",
+                "ToShowName": "Boubyan Bank",
+                "official_name": "BOUBYAN BANK (K.S.C)",
+                "country": "kw",
+                "swift_code": "BBYNKWKW"
+            },
+            "contact": {
+                "website": "https://boubyan.bankboubyan.com",
+                "customer_service": "+965 2228 2000",
+                "email": ""
+            },
+            "brand": {
+                "logo": "kw/BoubyanBank/logo.png",
+                "icon": "kw/BoubyanBank/icon.png",
+                "brand_main_color": "#54585a",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#191C26",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "404919",
+                    "405068",
+                    "422113",
+                    "422114",
+                    "423195",
+                    "426058",
+                    "443995",
+                    "458815",
+                    "470350",
+                    "490455",
+                    "490456",
+                    "510692",
+                    "528540",
+                    "533746"
+                ]
+            }
+        },
+        "Burgan Bank, S.A.K.": {
+            "info": {
+                "short_name": "burgan",
+                "ToShowName": "Burgan Bank",
+                "official_name": "Burgan Bank, S.A.K.",
+                "country": "kw",
+                "swift_code": "BRGNKWKW"
+            },
+            "contact": {
+                "website": "https://burgan.com",
+                "customer_service": "+965 1804080",
+                "email": "info@burgan.com"
+            },
+            "brand": {
+                "logo": "kw/BurganBank/logo.png",
+                "icon": "kw/BurganBank/icon.png",
+                "brand_main_color": "#1093CF",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#22374C",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "402978",
+                    "403583",
+                    "415254",
+                    "438123",
+                    "438124",
+                    "440711",
+                    "450238",
+                    "455067",
+                    "455068",
+                    "468564",
+                    "475189",
+                    "476335",
+                    "491785",
+                    "518521",
+                    "518549",
+                    "524190",
+                    "527307",
+                    "527525",
+                    "527526",
+                    "528803",
+                    "531611",
+                    "532335",
+                    "532337",
+                    "532339",
+                    "532341",
+                    "532422",
+                    "532493",
+                    "540759",
+                    "552299"
+                ]
+            }
+        },
+        "COMMERCIAL BANK OF KUWAIT SAK,THE": {
+            "info": {
+                "short_name": "cbk",
+                "ToShowName": "CBK - Commercial Bank of Kuwait",
+                "official_name": "COMMERCIAL BANK OF KUWAIT KPSC,THE",
+                "country": "kw",
+                "swift_code": "COMBKWKW"
+            },
+            "contact": {
+                "website": "https://cbk.com",
+                "customer_service": "+965 22990899",
+                "email": "cbkinq@cbk.com"
+            },
+            "brand": {
+                "logo": "kw/cbk/logo.png",
+                "icon": "kw/cbk/icon.png",
+                "brand_main_color": "#09A05E",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#00953B",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            }
+        },
+        "CITIBANK N.A.": {
+            "info": {
+                "short_name": "citibank",
+                "ToShowName": "Citibank",
+                "official_name": "CITIBANK N.A.",
+                "country": "kw",
+                "swift_code": "CITIKWKW"
+            },
+            "contact": {
+                "website": "https://citibank.com",
+                "customer_service": "+965 22594000",
+                "email": ""
+            },
+            "brand": {
+                "logo": "kw/citibank/logo.png",
+                "icon": "kw/citibank/icon.png",
+                "brand_main_color": "#056DAE",
+                "brand_main_text_color": {
+                    "dark": "#056DAE",
+                    "light": "#056DAE"
+                },
+                "card_color": "#155395",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "458246",
+                    "458247",
+                    "458248"
+                ]
+            }
+        },
+        "GULF FINANCE HOUSE": {
+            "info": {
+                "short_name": "gfh",
+                "ToShowName": "GFH Financial Group",
+                "official_name": "GULF FINANCE HOUSE",
+                "country": "kw",
+                "swift_code": "GFHIBHBM"
+            },
+            "contact": {
+                "website": "https://gfh.com",
+                "customer_service": "",
+                "email": ""
+            },
+            "brand": {
+                "logo": "kw/GFH/logo.png",
+                "icon": "kw/GFH/icon.png",
+                "brand_main_color": "#E11931",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#E11931",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "GULF BANK, K.S.C.": {
+            "info": {
+                "short_name": "gulf",
+                "ToShowName": "Gulf Bank of Kuwait",
+                "official_name": "GULF BANK, K.S.C.",
+                "country": "kw",
+                "swift_code": "GULBKWKW"
+            },
+            "contact": {
+                "website": "https://e-gulfbank.com",
+                "customer_service": "+965 22449501",
+                "email": "personalBanking@gulfbank.com.kw"
+            },
+            "brand": {
+                "logo": "kw/GulfBankofKuwait/logo.png",
+                "icon": "kw/GulfBankofKuwait/icon.png",
+                "brand_main_color": "#00417D",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#8C1F22",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "406430",
+                    "422056",
+                    "431210",
+                    "431211",
+                    "431475",
+                    "431927",
+                    "442104",
+                    "442105",
+                    "442446",
+                    "448329",
+                    "456776",
+                    "456777",
+                    "456778",
+                    "513665",
+                    "516647",
+                    "517419",
+                    "517458",
+                    "526206",
+                    "527262",
+                    "531329",
+                    "531470",
+                    "531471",
+                    "531644",
+                    "532675",
+                    "533769",
+                    "533788",
+                    "535966",
+                    "536524",
+                    "540261",
+                    "541107",
+                    "542859",
+                    "544675",
+                    "545424",
+                    "552007",
+                    "552078",
+                    "559320",
+                    "559475",
+                    "559582"
+                ]
+            }
+        },
+        "INDUSTRIAL BANK OF KUWAIT K.S.C., THE": {
+            "info": {
+                "short_name": "ibkuwt",
+                "ToShowName": "Industrial Bank of Kuwait",
+                "official_name": "INDUSTRIAL BANK OF KUWAIT K.S.C., THE",
+                "country": "kw",
+                "swift_code": "IBKUKWKW"
+            },
+            "contact": {
+                "website": "https://ibkuwt.com",
+                "customer_service": "+965 2233 7000",
+                "email": "ibk@ibkuwt.com"
+            },
+            "brand": {
+                "logo": "kw/IndustrialBankofKuwait/logo.png",
+                "icon": "kw/IndustrialBankofKuwait/icon.png",
+                "brand_main_color": "#B1841D",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#B1841D",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "KUWAIT INTERNATIONAL BANK": {
+            "info": {
+                "short_name": "ibkuwt",
+                "ToShowName": "Kuwait International Bank",
+                "official_name": "KUWAIT INTERNATIONAL BANK",
+                "country": "kw",
+                "swift_code": "KWIBKWKW"
+            },
+            "contact": {
+                "website": "https://kib.com.kw",
+                "customer_service": "+965 1866866",
+                "email": ""
+            },
+            "brand": {
+                "logo": "kw/KuwaitInternationalBank/logo.png",
+                "icon": "kw/KuwaitInternationalBank/icon.png",
+                "brand_main_color": "#B1841D",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#1d5fb1",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "409054",
+                    "458232",
+                    "458233",
+                    "458770",
+                    "458771",
+                    "471457",
+                    "517893",
+                    "533778",
+                    "539281",
+                    "554134",
+                    "559472",
+                    "559593"
+                ]
+            }
+        },
+        "FIRST ABU DHABI BANK KUWAIT": {
+            "info": {
+                "short_name": "fab",
+                "ToShowName": "FAB - First Abu Dhabi Bank Kuwait",
+                "official_name": "NATIONAL BANK OF ABU DHABI",
+                "country": "kw",
+                "swift_code": "NBADKWKW"
+            },
+            "contact": {
+                "website": "https://bankfab.com/en-kw",
+                "customer_service": "+965 2290 4190",
+                "email": ""
+            },
+            "brand": {
+                "logo": "kw/FIRSTABUDHABIBANKKUWAIT/logo.png",
+                "icon": "kw/FIRSTABUDHABIBANKKUWAIT/icon.png",
+                "brand_main_color": "#4A4D53",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#049f17",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            }
+        },
+        "QATAR NATIONAL BANK": {
+            "info": {
+                "short_name": "qnb",
+                "ToShowName": "QNB - Qatar National Bank",
+                "official_name": "QATAR NATIONAL BANK",
+                "country": "kw",
+                "swift_code": "QNBAKWKW"
+            },
+            "contact": {
+                "website": "https://www.qnb.com/sites/qnb/qnbkuwait/page/en/en-home.html",
+                "customer_service": "+965 2226 7000",
+                "email": "QNBKuwait@qnb.com"
+            },
+            "brand": {
+                "logo": "kw/QNBGroup/logo.png",
+                "icon": "kw/QNBGroup/icon.png",
+                "brand_main_color": "#BE1566",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#ffffff",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#001B59"
+            },
+            "data": {
+                "bins": [
+                    "524221",
+                    "559307"
+                ]
+            }
+        },
+        "WARBA BANK": {
+            "info": {
+                "short_name": "warbabank",
+                "ToShowName": "Warba Bank",
+                "official_name": "WARBA BANK",
+                "country": "kw",
+                "swift_code": "WRBAKWKW"
+            },
+            "contact": {
+                "website": "https://warbabank.com",
+                "customer_service": "+965 1 825 555",
+                "email": ""
+            },
+            "brand": {
+                "logo": "kw/WarbaBank/logo.png",
+                "icon": "kw/WarbaBank/icon.png",
+                "brand_main_color": "#23165F",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#23165F",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "457442",
+                    "457443",
+                    "457444",
+                    "457445",
+                    "457446",
+                    "532749",
+                    "536325",
+                    "559459"
+                ]
+            }
+        },
+        "BANK OF BAHRAIN AND KUWAIT B.S.C.": {
+            "data": {
+                "bins": [
+                    "418056"
+                ]
+            }
+        },
+        "COMMERCIAL BANK OF KUWAIT KPSC,THE": {
+            "data": {
+                "bins": [
+                    "400155",
+                    "400156",
+                    "425873",
+                    "440625",
+                    "441215",
+                    "443967",
+                    "443968",
+                    "458550",
+                    "476099",
+                    "480944",
+                    "485441",
+                    "489015",
+                    "516334",
+                    "516353",
+                    "521175",
+                    "521371",
+                    "526597",
+                    "529074",
+                    "532672",
+                    "533757",
+                    "537015",
+                    "541855",
+                    "544290",
+                    "548183",
+                    "548184",
+                    "548277",
+                    "559324"
+                ]
+            }
+        },
+        "NATIONAL BANK OF ABU DHABI": {
+            "data": {
+                "bins": [
+                    "430280",
+                    "430281",
+                    "458205"
+                ]
+            }
+        }
+    }
+}

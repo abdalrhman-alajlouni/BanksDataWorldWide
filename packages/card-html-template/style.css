@@ -1,0 +1,205 @@
+html {
+	font-family: 'Alexandria';
+	font-size: 10px;
+	scroll-behavior: smooth;
+}
+*, *::before, *::after {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: rgb(30, 30, 30);
+    font-size: 1.6rem;
+    line-height: 1.5;
+}
+a {
+	text-decoration: none;
+	color: inherit;
+}
+
+.MainContCardSystem{
+	display: flex;
+    gap: 63px;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+
+.MainCardBackFront{
+	width: 400px;
+	height: 255px;
+	position: relative;
+	perspective: 1000px;
+}
+
+.flip-card-inner {
+	position: relative;
+	width: 100%;
+	height: 100%;
+	transition: transform 0.6s;
+	transform-style: preserve-3d;
+}
+
+.MainCardBackFront:hover .flip-card-inner {
+	transform: rotateY(180deg);
+}
+
+
+
+.MainCardBackBlackLine{
+	width: 100%;
+	height: 22%;
+	background: #000000;
+	height: 50.59px;
+    min-height: 50.59px;
+    max-height: 50.59px;
+}
+
+.MainCardCont{
+	border-radius: 22px;
+	display: flex;
+	flex-direction: column;
+	padding: 21px;
+	gap: 13px;
+	backface-visibility: hidden;
+	width: 100%;
+	height: 100%;
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+	position: absolute;
+	
+	background: linear-gradient(37deg, #1f64ff, #000000);
+	color: #ffffff;
+}
+.MainCardHeader{
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+	height: 25%;
+	min-height: 25%;
+}
+.MainCardBankLogo{
+	width: auto;
+	max-height: 100%;
+}
+.MainCardChipCont{
+	display: flex;
+	align-items: center;
+	width: 100%;
+	height: 18%;
+	padding-left: 8%;
+}
+.MainCardChipImg{
+	height: 100%;
+}
+.MainCardChipWifiIcon{
+	transform: rotate(90deg);
+	font-size: 1.8em;
+}
+.MainCardCardNo{
+	font-size: 2em;
+	text-align: center;
+	min-height: 48px;
+}
+.MainCardFooterCont{
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap;
+}
+.MainCardFooterNameDataCont{
+	display: flex;
+	gap: 10px;
+}
+.MainCardFooterNameDataTitle{
+	font-size: 0.9em;
+	color: #ffffffa3;
+}
+.MainCardFooterNameDataContent{
+	font-size: 0.8em;
+}
+.MainCardFooterRightCardSchema{
+	font-size: 3em;
+}
+.MainCardBankLogoDefaultIcon {
+	font-size: 3.5em;
+}
+
+.MainCardBack{
+	transform: rotateY(180deg);
+	padding: 0 !important;
+}
+
+.MainCardBackTopInfo{
+	font-size: 0.6em;
+    display: flex;
+    gap: 5px;
+    padding-left: 23px;
+    padding-top: 5px;
+    padding-bottom: 4px;
+    max-height: 23.39px;
+    max-width: 100%;
+    overflow: hidden;
+}
+.MainCardBackUnderLineCont{
+	display: flex;
+	padding: 10px;
+	flex-direction: column;
+	padding-top: 13px;
+	font-size: 0.6em;
+}
+.MainCardBackSignCont{			
+	width: 85%;
+	height: 29px;
+	background: #fff;
+	display: flex;
+	color: #000;
+	align-items: center;
+	gap: 8px;
+}
+.MainCardBackSignMain{	
+	width: 100%;
+	height: 110%;
+	background: #e8efff;
+	display: flex;
+	flex-direction: column;
+	gap: 3px;
+	overflow: hidden;
+}
+.MainCardBackSignLine{	
+	width: 100%;
+	height: 7px;
+	background: #ffd69c;
+}
+.MainCardBackSignCSVno{	
+	font-size: 1.2em;
+	padding-right: 8px;
+}
+.MainCardBackMiddleCont{
+	display: flex;
+	gap: 9px;
+	align-items: center;
+	padding-left: 19px;
+	padding-top: 10px;
+}
+.MainCardBackMiddleBankLogo{
+	max-height: 40px;
+	max-width: 82px;
+}
+.MainCardBackFooterCont{
+	display: flex;
+	justify-content: space-between;
+	padding: 24px;
+	padding-bottom: 0;
+	padding-top: 13px;
+}
+.MainCardBackFooterContactItem{
+	display: flex;
+	gap: 3px;
+}
+.MainCardBackFooterContactItemCardSchema{
+	font-size: 2em;
+}
+.MainCardBackFooterContactItemCardSchema2{
+	font-size: 3em;
+}

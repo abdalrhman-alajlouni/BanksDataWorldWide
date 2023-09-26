@@ -1,0 +1,33 @@
+{
+    "fr": {
+        "BANQUE POPULAIRE-GROUPE BPCE": {
+            "info": {
+                "short_name": "groupebpce",
+                "ToShowName": "Groupe BPCE",
+                "official_name": "BANQUE POPULAIRE-GROUPE BPCE",
+                "country": "fr",
+                "swift_code": "CCBPFRPP"
+            },
+            "contact": {
+                "website": "https://groupebpce.com",
+                "customer_service": "+33 0811 000 812",
+                "email": ""
+            },
+            "brand": {
+                "logo": "fr/BANQUEPOPULAIRE-GROUPEBPCE/logo.png",
+                "icon": "fr/BANQUEPOPULAIRE-GROUPEBPCE/icon.png",
+                "brand_main_color": "#5A1D81",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#5A1D81",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        }
+    }
+}

@@ -1,0 +1,61 @@
+{
+    "de": {
+        "Berliner Sparkasse": {
+            "info": {
+                "short_name": "berliner-sparkasse",
+                "ToShowName": "Berliner Sparkasse",
+                "official_name": "Berliner Sparkasse",
+                "country": "de",
+                "swift_code": "BELADEBE"
+            },
+            "contact": {
+                "website": "https://berliner-sparkasse.de",
+                "customer_service": "+49 30 869 869 69",
+                "email": "info@berliner-sparkasse.de"
+            },
+            "brand": {
+                "logo": "de/BerlinerSparkasse/logo.png",
+                "icon": "de/BerlinerSparkasse/icon.png",
+                "brand_main_color": "#EE0000",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#EE0000",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "DEUTSCHE BANK AG": {
+            "info": {
+                "short_name": "db",
+                "ToShowName": "DB - Deutsche Bank",
+                "official_name": "DEUTSCHE BANK AG",
+                "country": "de",
+                "swift_code": "DEUTDEFF"
+            },
+            "contact": {
+                "website": "https://db.com",
+                "customer_service": "+49 6991010000",
+                "email": " deutsche.bank@db.com"
+            },
+            "brand": {
+                "logo": "de/DeutscheBank/logo.png",
+                "icon": "de/DeutscheBank/icon.png",
+                "brand_main_color": "#104278",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#104278",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        }
+    }
+}

@@ -1,0 +1,33 @@
+{
+    "es": {
+        "ABANCA CORPORACION BANCARIA, S.A.": {
+            "info": {
+                "short_name": "abanca",
+                "ToShowName": "Abanca",
+                "official_name": "ABANCA CORPORACION BANCARIA, S.A.",
+                "country": "es",
+                "swift_code": "CAGLESMM"
+            },
+            "contact": {
+                "website": "https://abanca.com",
+                "customer_service": "\u200b+34 981 910 522",
+                "email": "comunicacion@abanca.com"
+            },
+            "brand": {
+                "logo": "es/Abanca/logo.png",
+                "icon": "es/Abanca/icon.png",
+                "brand_main_color": "#5B87DA",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#5B87DA",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        }
+    }
+}

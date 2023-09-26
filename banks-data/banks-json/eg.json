@@ -1,0 +1,1563 @@
+{
+    "eg": {
+        "BANQUE MISR": {
+            "info": {
+                "short_name": "banquemisr",
+                "ToShowName": "Banque Misr",
+                "official_name": "BANQUE MISR",
+                "country": "eg",
+                "swift_code": "BMISEGCX"
+            },
+            "contact": {
+                "website": "https://banquemisr.com",
+                "customer_service": "",
+                "email": "BM19888@banquemisr.com"
+            },
+            "brand": {
+                "logo": "eg/BanqueMisr/logo.png",
+                "icon": "eg/BanqueMisr/icon.png",
+                "brand_main_color": "#E7B61F",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#E7B61F",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "410560",
+                    "410724",
+                    "414940",
+                    "418988",
+                    "420585",
+                    "420598",
+                    "422348",
+                    "426317",
+                    "426336",
+                    "440979",
+                    "440983",
+                    "441194",
+                    "464619",
+                    "465566",
+                    "471445",
+                    "478749",
+                    "481355",
+                    "498813",
+                    "498814",
+                    "498835",
+                    "498839",
+                    "498880",
+                    "498881",
+                    "510438",
+                    "510498",
+                    "510519",
+                    "510520",
+                    "510521",
+                    "511787",
+                    "513481",
+                    "513883",
+                    "517217",
+                    "518904",
+                    "519737",
+                    "525836",
+                    "526437",
+                    "526438",
+                    "530361",
+                    "531443",
+                    "537023",
+                    "539935",
+                    "539937",
+                    "540606",
+                    "540607",
+                    "540632",
+                    "540787",
+                    "541946",
+                    "543626",
+                    "543680",
+                    "546866",
+                    "547436",
+                    "550368",
+                    "557313"
+                ]
+            }
+        },
+        "NATIONAL BANK OF EGYPT BIC": {
+            "info": {
+                "short_name": "nbe",
+                "ToShowName": "NBE - National Bank of Egypt",
+                "official_name": "NATIONAL BANK OF EGYPT",
+                "country": "eg",
+                "swift_code": "NBEGEGCX"
+            },
+            "contact": {
+                "website": "https://nbe.com.eg",
+                "customer_service": "",
+                "email": ""
+            },
+            "brand": {
+                "logo": "eg/NationalBankofEgypt/logo.png",
+                "icon": "eg/NationalBankofEgypt/icon.png",
+                "brand_main_color": "#006643",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#006643",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            }
+        },
+        "BANQUE DU CAIRE": {
+            "info": {
+                "short_name": "bdc",
+                "ToShowName": "BDC - Cairo Bank",
+                "official_name": "BANQUE DU CAIRE",
+                "country": "eg",
+                "swift_code": "BCAIEGCX"
+            },
+            "contact": {
+                "website": "https://bdc.com.eg",
+                "customer_service": "",
+                "email": ""
+            },
+            "brand": {
+                "logo": "eg/CairoBank/logo.png",
+                "icon": "eg/CairoBank/icon.png",
+                "brand_main_color": "#EE2D28",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#EE2D28",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "414079",
+                    "440700",
+                    "440701",
+                    "440703",
+                    "510493",
+                    "511694",
+                    "512397",
+                    "517582",
+                    "519001",
+                    "520031",
+                    "521764",
+                    "521770",
+                    "524310",
+                    "526402",
+                    "526417",
+                    "526463",
+                    "529532",
+                    "531156"
+                ]
+            }
+        },
+        "THE UNITED BANK": {
+            "info": {
+                "short_name": "ubeg",
+                "ToShowName": "UBEG - United Bank of Egypt",
+                "official_name": "THE UNITED BANK",
+                "country": "eg",
+                "swift_code": "UBOEEGCX"
+            },
+            "contact": {
+                "website": "https://theubeg.com",
+                "customer_service": "",
+                "email": "info@theubeg.com"
+            },
+            "brand": {
+                "logo": "eg/UnitedBankofEgypt/logo.png",
+                "icon": "eg/UnitedBankofEgypt/icon.png",
+                "brand_main_color": "#23378A",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#23378A",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "EGYPTIAN ARAB LAND BANK": {
+            "info": {
+                "short_name": "eal",
+                "ToShowName": "EAL - Egyptian Arab Land Bank",
+                "official_name": "EGYPTIAN ARAB LAND BANK",
+                "country": "eg",
+                "swift_code": "ARLBEGCA"
+            },
+            "contact": {
+                "website": "https://eal-bank.com",
+                "customer_service": "",
+                "email": ""
+            },
+            "brand": {
+                "logo": "eg/TheEgyptianArabLandBank/logo.png",
+                "icon": "eg/TheEgyptianArabLandBank/icon.png",
+                "brand_main_color": "#02A2E0",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#02A2E0",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "HOUSING AND DEVELOPMENT BANK": {
+            "info": {
+                "short_name": "hdb",
+                "ToShowName": "HND - Housing and Development Bank",
+                "official_name": "HOUSING AND DEVELOPMENT BANK",
+                "country": "eg",
+                "swift_code": "HDBKEGCA"
+            },
+            "contact": {
+                "website": "https://ir.hdb-egy.com",
+                "customer_service": "",
+                "email": "hany.nassef@hdb-egy.com"
+            },
+            "brand": {
+                "logo": "eg/HousingandDevelopmentBank/logo.png",
+                "icon": "eg/HousingandDevelopmentBank/icon.png",
+                "brand_main_color": "#579F4A",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#579F4A",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "549762"
+                ]
+            }
+        },
+        "EXPORT DEVELOPMENT BANK OF EGYPT": {
+            "info": {
+                "short_name": "ebank",
+                "ToShowName": "Egyptian Export Development Bank",
+                "official_name": "EXPORT DEVELOPMENT BANK OF EGYPT",
+                "country": "eg",
+                "swift_code": "EXDEEGCX"
+            },
+            "contact": {
+                "website": "https://ebank.com.eg",
+                "customer_service": "",
+                "email": ""
+            },
+            "brand": {
+                "logo": "eg/EgyptianExportDevelopmentBank/logo.png",
+                "icon": "eg/EgyptianExportDevelopmentBank/icon.png",
+                "brand_main_color": "#172757",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#172757",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.": {
+            "info": {
+                "short_name": "cib",
+                "ToShowName": "CIB - Commercial International Bank",
+                "official_name": "COMMERCIAL INTERNATIONAL BANK (EGYPT) S.A.E.",
+                "country": "eg",
+                "swift_code": "CIBEEGCX"
+            },
+            "contact": {
+                "website": "https://cibeg.com",
+                "customer_service": "",
+                "email": "socialmedia.support@cibeg.com"
+            },
+            "brand": {
+                "logo": "eg/CommercialInternationalBank/logo.png",
+                "icon": "eg/CommercialInternationalBank/icon.png",
+                "brand_main_color": "#1858A8",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#1858A8",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "408238",
+                    "413018",
+                    "413049",
+                    "413081",
+                    "413088",
+                    "413094",
+                    "413095",
+                    "413096",
+                    "445514",
+                    "479069",
+                    "486318",
+                    "510422",
+                    "510482",
+                    "510523",
+                    "511613",
+                    "516046",
+                    "517726",
+                    "517739",
+                    "517740",
+                    "517879",
+                    "518908",
+                    "520149",
+                    "520305",
+                    "520378",
+                    "522960",
+                    "523761",
+                    "526416",
+                    "526420",
+                    "526439",
+                    "526716",
+                    "526717",
+                    "526745",
+                    "526747",
+                    "526780",
+                    "527271",
+                    "528603",
+                    "529969",
+                    "530449",
+                    "531805",
+                    "533518",
+                    "533584",
+                    "534428",
+                    "535945",
+                    "541955",
+                    "541961",
+                    "542443",
+                    "542508",
+                    "548050",
+                    "548274",
+                    "550506",
+                    "552566",
+                    "557607"
+                ]
+            }
+        },
+        "ARAB INVESTMENT BANK": {
+            "info": {
+                "short_name": "aibegypt",
+                "ToShowName": "Arab Investment Bank Egypt",
+                "official_name": "ARAB INVESTMENT BANK",
+                "country": "eg",
+                "swift_code": "AINBEGCA"
+            },
+            "contact": {
+                "website": "https://aibegypt.com",
+                "customer_service": "",
+                "email": ""
+            },
+            "brand": {
+                "logo": "eg/ArabInvestmentBankEgypt/logo.png",
+                "icon": "eg/ArabInvestmentBankEgypt/icon.png",
+                "brand_main_color": "#1C532F",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#1C532F",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "FAISAL ISLAMIC BANK OF EGYPT": {
+            "info": {
+                "short_name": "faisalbank",
+                "ToShowName": "Faisal IslamicBank of Egypt",
+                "official_name": "FAISAL ISLAMIC BANK OF EGYPT",
+                "country": "eg",
+                "swift_code": "FIEGEGCX"
+            },
+            "contact": {
+                "website": "https://faisalbank.com.eg",
+                "customer_service": "+20 0221283100",
+                "email": "customercare@faysalbank.com"
+            },
+            "brand": {
+                "logo": "eg/FaisalIslamicBankofEgypt/logo.png",
+                "icon": "eg/FaisalIslamicBankofEgypt/icon.png",
+                "brand_main_color": "#1EA077",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#1EA077",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "405866",
+                    "426309",
+                    "430105"
+                ]
+            }
+        },
+        "ABU DHABI COMMERCIAL BANK - EGYPT ADCB EGYPT": {
+            "info": {
+                "short_name": "adcb",
+                "ToShowName": "ADCB - Abu Dhabi Commercial Bank",
+                "official_name": "ABU DHABI COMMERCIAL BANK - EGYPT ADCB EGYPT",
+                "country": "eg",
+                "swift_code": "ADCBEGCX"
+            },
+            "contact": {
+                "website": "https://adcb.com.eg",
+                "customer_service": "+20 0233011300 ",
+                "email": "ADC-HELPDESK@ADCB.COM.EG"
+            },
+            "brand": {
+                "logo": "eg/AbuDhabiCommercialBank/logo.png",
+                "icon": "eg/AbuDhabiCommercialBank/icon.png",
+                "brand_main_color": "#BC141A",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#1E1E1E",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "FIRST ABU DHABI BANK PJSC": {
+            "info": {
+                "short_name": "fabmisr",
+                "ToShowName": "First AbuDhabi Bank",
+                "official_name": "FIRST ABU DHABI BANK PJSC",
+                "country": "eg",
+                "swift_code": "NBADEGCA"
+            },
+            "contact": {
+                "website": "https://fabmisr.com.eg",
+                "customer_service": "",
+                "email": ""
+            },
+            "brand": {
+                "logo": "eg/FirstAbuDhabiBank/logo.png",
+                "icon": "eg/FirstAbuDhabiBank/icon.png",
+                "brand_main_color": "#757575",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#12508E",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "EMIRATES NATIONAL BANK OF DUBAI SAE": {
+            "info": {
+                "short_name": "emiratesnbd",
+                "ToShowName": "Emirates NBD",
+                "official_name": "EMIRATES NATIONAL BANK OF DUBAI SAE",
+                "country": "eg",
+                "swift_code": "EBILEGCX"
+            },
+            "contact": {
+                "website": "https://emiratesnbd.com.eg",
+                "customer_service": "",
+                "email": ""
+            },
+            "brand": {
+                "logo": "eg/EmiratesNBD/logo.png",
+                "icon": "eg/EmiratesNBD/icon.png",
+                "brand_main_color": "#182F7C",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#716FAA",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "519246",
+                    "522025",
+                    "528666",
+                    "529607",
+                    "529909",
+                    "532449",
+                    "539872",
+                    "540808",
+                    "543173",
+                    "546350",
+                    "548758",
+                    "549786",
+                    "549790",
+                    "559461"
+                ]
+            }
+        },
+        "MASHREQ BANK": {
+            "info": {
+                "short_name": "mashreqbank",
+                "ToShowName": "Mashreq",
+                "official_name": "MASHREQ BANK",
+                "country": "eg",
+                "swift_code": "MSHQEGCA"
+            },
+            "contact": {
+                "website": "https://mashreqbank.com",
+                "customer_service": "",
+                "email": ""
+            },
+            "brand": {
+                "logo": "eg/Mashreq/logo.png",
+                "icon": "eg/Mashreq/icon.png",
+                "brand_main_color": "#FF5E00",
+                "brand_main_text_color": {
+                    "dark": "#D3D3D3",
+                    "light": "#4C4C4C"
+                },
+                "card_color": "#FF5E00",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "419286",
+                    "419287",
+                    "419288",
+                    "516012",
+                    "524158",
+                    "524159",
+                    "524504",
+                    "529582",
+                    "543889"
+                ]
+            }
+        },
+        "ABU DHABI ISLAMIC BANK - EGYPT": {
+            "info": {
+                "short_name": "adib",
+                "ToShowName": "ADIB - Abu Dhabi Islamic Bank",
+                "official_name": "ABU DHABI ISLAMIC BANK - EGYPT",
+                "country": "eg",
+                "swift_code": "ABDIEGCA"
+            },
+            "contact": {
+                "website": "https://adib.eg",
+                "customer_service": "+20 0238289300",
+                "email": "ADIBEgypt@adib.eg"
+            },
+            "brand": {
+                "logo": "eg/AbuDhabiIslamicBank/logo.png",
+                "icon": "eg/AbuDhabiIslamicBank/icon.png",
+                "brand_main_color": "#003878",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#0295E7",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "513896",
+                    "517565",
+                    "518292",
+                    "524524",
+                    "529792",
+                    "531677",
+                    "533777",
+                    "535954",
+                    "539207",
+                    "547112",
+                    "548457",
+                    "548642",
+                    "559254"
+                ]
+            }
+        },
+        "AHLI UNITED BANK K.S.C.": {
+            "info": {
+                "short_name": "ahliunited",
+                "ToShowName": "Ahli United Bank of Kuwait",
+                "official_name": "AHLI UNITED BANK K.S.C.P.",
+                "country": "eg",
+                "swift_code": "BKMEKWKW"
+            },
+            "contact": {
+                "website": "https://ahliunited.com/eg",
+                "customer_service": "",
+                "email": "Egypt.CallCenter@AhliUnited.com"
+            },
+            "brand": {
+                "logo": "eg/AhliUnitedBankofKuwait/logo.png",
+                "icon": "eg/AhliUnitedBankofKuwait/icon.png",
+                "brand_main_color": "#00648E",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#000000",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            }
+        },
+        "ALBARAKA BANK EGYPT": {
+            "info": {
+                "short_name": "al baraka bank",
+                "ToShowName": "Al Baraka bank",
+                "official_name": "ALBARAKA BANK EGYPT",
+                "country": "eg",
+                "swift_code": "ABRKEGCA"
+            },
+            "contact": {
+                "website": "https://albaraka.com.eg",
+                "customer_service": "",
+                "email": "complaints@albaraka.com.pk"
+            },
+            "brand": {
+                "logo": "eg/AlBarakaBankingGroup/logo.png",
+                "icon": "eg/AlBarakaBankingGroup/icon.png",
+                "brand_main_color": "#FFFFFF",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#FFFFFF",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#000000"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "BLOM BANK EGYPT S.A.E.": {
+            "info": {
+                "short_name": "blom",
+                "ToShowName": "BLOM Bank",
+                "official_name": "BLOM BANK EGYPT S.A.E.",
+                "country": "eg",
+                "swift_code": "MRBAEGCX"
+            },
+            "contact": {
+                "website": "https://blombankegypt.com",
+                "customer_service": "+20 225861199",
+                "email": "abcegypt@bank-abc.com"
+            },
+            "brand": {
+                "logo": "eg/BLOMBank/logo.png",
+                "icon": "eg/BLOMBank/icon.png",
+                "brand_main_color": "#024A94",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#024A94",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "457338",
+                    "470693",
+                    "470694",
+                    "470695",
+                    "470696",
+                    "470697",
+                    "511863",
+                    "512698",
+                    "512730",
+                    "519530",
+                    "524690",
+                    "526970",
+                    "528526",
+                    "528807",
+                    "533748"
+                ]
+            }
+        },
+        "BANK AUDI SAL - AUDI SARADAR GROUP": {
+            "info": {
+                "short_name": "bankaudi",
+                "ToShowName": "Bank Audi",
+                "official_name": "FIRST ABU DHABI BANK MISR S.A.E.",
+                "country": "eg",
+                "swift_code": "AUDBEGCA"
+            },
+            "contact": {
+                "website": "https://bankaudi.com",
+                "customer_service": "",
+                "email": ""
+            },
+            "brand": {
+                "logo": "eg/BankAudi/logo.png",
+                "icon": "eg/BankAudi/icon.png",
+                "brand_main_color": "#E6E6E6",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#ffffff",
+                "card_color_gradient": "#cdcdcd",
+                "card_text_color": "#000000"
+            }
+        },
+        "Qatar National Bank": {
+            "info": {
+                "short_name": "qnb",
+                "ToShowName": "QNB - Qatar National Bank",
+                "official_name": "QATAR NATIONAL BANK ALAHLI S.A.E (QNB ALAHLI)",
+                "country": "eg",
+                "swift_code": "QNBAEGCX"
+            },
+            "contact": {
+                "website": "https://qnb.com",
+                "customer_service": "",
+                "email": "Customer.inquiry@qnbalahli.com"
+            },
+            "brand": {
+                "logo": "eg/QNB Group/logo.png",
+                "icon": "eg/QNB Group/icon.png",
+                "brand_main_color": "#BE1566",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#BE1566"
+                },
+                "card_color": "#ffffff",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#001B59"
+            }
+        },
+        "ARAB BANK PLC": {
+            "info": {
+                "short_name": "arabbank",
+                "ToShowName": "Arab Bank",
+                "official_name": "ARAB BANK PLC",
+                "country": "eg",
+                "swift_code": "ARABEGCX"
+            },
+            "contact": {
+                "website": "https://www.arabbank.com.eg/",
+                "customer_service": "",
+                "email": "Callcenter@arabbank.com.eg"
+            },
+            "brand": {
+                "logo": "eg/arabi/logo.png",
+                "icon": "eg/arabi/icon.png",
+                "brand_main_color": "#336197",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#336197",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "417471",
+                    "432504",
+                    "432507",
+                    "432587",
+                    "432588",
+                    "447527",
+                    "447529",
+                    "474718",
+                    "474733",
+                    "516571",
+                    "524447"
+                ]
+            }
+        },
+        "HSBC BANK EGYPT S.A.E": {
+            "info": {
+                "short_name": "hsbc",
+                "ToShowName": "HSBC - Bank Egypt",
+                "official_name": "HSBC BANK EGYPT S.A.E",
+                "country": "eg",
+                "swift_code": "EBBKEGCX"
+            },
+            "contact": {
+                "website": "https://hsbc.com.eg",
+                "customer_service": "+20 235359100",
+                "email": ""
+            },
+            "brand": {
+                "logo": "eg/HSBC/logo.png",
+                "icon": "eg/HSBC/icon.png",
+                "brand_main_color": "#DA0011",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#DA0011",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "414479",
+                    "426355",
+                    "426356",
+                    "432066",
+                    "445815",
+                    "458830",
+                    "458832",
+                    "458834",
+                    "518298",
+                    "518315",
+                    "518433",
+                    "519379",
+                    "520763",
+                    "520764",
+                    "520767",
+                    "552916",
+                    "558708",
+                    "558710",
+                    "558711",
+                    "558712",
+                    "594526"
+                ]
+            }
+        },
+        "STANDARD CHARTERED BANK": {
+            "info": {
+                "short_name": "sc",
+                "ToShowName": "SC - Standard Chartered Bank",
+                "official_name": "STANDARD CHARTERED BANK",
+                "country": "eg",
+                "swift_code": "SCBLUS33"
+            },
+            "contact": {
+                "website": "https://sc.com",
+                "customer_service": "+20 224801150",
+                "email": ""
+            },
+            "brand": {
+                "logo": "eg/StandardCharteredBank/logo.png",
+                "icon": "eg/StandardCharteredBank/icon.png",
+                "brand_main_color": "#0473EA",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#0473EA",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "CITIBANK N.A. - CAIRO BRANCH": {
+            "info": {
+                "short_name": "citibank",
+                "ToShowName": "Citibank",
+                "official_name": "CITIBANK N.A. - CAIRO BRANCH",
+                "country": "eg",
+                "swift_code": "CITIEGCX"
+            },
+            "contact": {
+                "website": "https://citibank.com",
+                "customer_service": "+20 226186200",
+                "email": "Egypt.CitiService@Citi.com"
+            },
+            "brand": {
+                "logo": "eg/citibank/logo.png",
+                "icon": "eg/citibank/icon.png",
+                "brand_main_color": "#056DAE",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#155395",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "418833",
+                    "458243",
+                    "458244",
+                    "458245",
+                    "469361",
+                    "486667",
+                    "532970",
+                    "552918",
+                    "552919",
+                    "552921"
+                ]
+            }
+        },
+        "BANK OF ALEXANDRIA S A E": {
+            "info": {
+                "short_name": "alexbank",
+                "ToShowName": "Bank of Alexandria",
+                "official_name": "BANK OF ALEXANDRIA S A E",
+                "country": "eg",
+                "swift_code": "ALEXEGCX"
+            },
+            "contact": {
+                "website": "https://alexbank.com",
+                "customer_service": "+20 223992000",
+                "email": "CSR@Alexbank.com"
+            },
+            "brand": {
+                "logo": "eg/BankofAlexandria/logo.png",
+                "icon": "eg/BankofAlexandria/icon.png",
+                "brand_main_color": "#EA600E",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#EA600E",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "403185",
+                    "409000",
+                    "409080",
+                    "409090",
+                    "417439",
+                    "423235",
+                    "423249",
+                    "472594",
+                    "486393",
+                    "491727",
+                    "531447",
+                    "539167",
+                    "539929",
+                    "546921"
+                ]
+            }
+        },
+        "CREDIT AGRICOLE EGYPT": {
+            "info": {
+                "short_name": "ca",
+                "ToShowName": "CA - Cr\u00e9dit Agricole",
+                "official_name": "CREDIT AGRICOLE EGYPT",
+                "country": "eg",
+                "swift_code": "AGRIEGCX"
+            },
+            "contact": {
+                "website": "https://ca-egypt.com",
+                "customer_service": "+20 233329300",
+                "email": ""
+            },
+            "brand": {
+                "logo": "eg/Cr\u00e9ditAgricole/logo.png",
+                "icon": "eg/Cr\u00e9ditAgricole/icon.png",
+                "brand_main_color": "#007E59",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#007E59",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "National Bank of Greece": {
+            "info": {
+                "short_name": "nbg",
+                "ToShowName": "NBG - National Bank of Greece",
+                "official_name": "NATIONAL BANK OF GREECE, (EGYPT NETWORK)",
+                "country": "eg",
+                "swift_code": "ETHNEGCA"
+            },
+            "contact": {
+                "website": "https://nbg.com.eg",
+                "customer_service": "",
+                "email": ""
+            },
+            "brand": {
+                "logo": "eg/NationalBankofGreece/logo.png",
+                "icon": "eg/NationalBankofGreece/icon.png",
+                "brand_main_color": "#007581",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#007581",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            }
+        },
+        "ARAB AFRICAN INTERNATIONAL BANK": {
+            "info": {
+                "short_name": "aaib",
+                "ToShowName": "AAIB - Arab African International Bank",
+                "official_name": "ARAB AFRICAN INTERNATIONAL BANK",
+                "country": "eg",
+                "swift_code": "ARAIEGCX"
+            },
+            "contact": {
+                "website": "https://aaib.com",
+                "customer_service": "",
+                "email": ""
+            },
+            "brand": {
+                "logo": "eg/ArabAfricanInternationalBank/logo.png",
+                "icon": "eg/ArabAfricanInternationalBank/icon.png",
+                "brand_main_color": "#036777",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#036777",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "415326",
+                    "424626",
+                    "434694",
+                    "450899",
+                    "454835",
+                    "454874",
+                    "454875",
+                    "454877",
+                    "458783",
+                    "460014",
+                    "469680",
+                    "520388",
+                    "521063",
+                    "524815",
+                    "525715",
+                    "527109",
+                    "529983",
+                    "530509",
+                    "533537",
+                    "537017",
+                    "539895",
+                    "543340"
+                ]
+            }
+        },
+        "MIDBANK": {
+            "info": {
+                "short_name": "midbank",
+                "ToShowName": "MID Bank",
+                "official_name": "MIDBANK",
+                "country": "eg",
+                "swift_code": "MIDBEGCX"
+            },
+            "contact": {
+                "website": "https://midbank.com.eg",
+                "customer_service": "+20 221295400",
+                "email": "customer.support@midbank.com.eg"
+            },
+            "brand": {
+                "logo": "eg/MIDBANK/logo.png",
+                "icon": "eg/MIDBANK/icon.png",
+                "brand_main_color": "#08925B",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#08925B",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "ARAB INTERNATIONAL BANK": {
+            "info": {
+                "short_name": "aib",
+                "ToShowName": "AIB - Arab International Bank",
+                "official_name": "ARAB INTERNATIONAL BANK",
+                "country": "eg",
+                "swift_code": "ARIBEGCX"
+            },
+            "contact": {
+                "website": "https://aib.com.eg",
+                "customer_service": "+202 22902069",
+                "email": "cairobranch@aib.com.eg"
+            },
+            "brand": {
+                "logo": "eg/ArabInternationalBank/logo.png",
+                "icon": "eg/ArabInternationalBank/icon.png",
+                "brand_main_color": "#BE9952",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#BE9952",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "400725",
+                    "403244",
+                    "422881",
+                    "422883",
+                    "430153",
+                    "431513",
+                    "433307",
+                    "440207",
+                    "440575",
+                    "440576",
+                    "441004",
+                    "446458",
+                    "446459",
+                    "447569",
+                    "447570",
+                    "454315",
+                    "454773",
+                    "465727",
+                    "542945",
+                    "544172",
+                    "544610",
+                    "544653",
+                    "547527",
+                    "548334",
+                    "550431",
+                    "550442",
+                    "550444"
+                ]
+            }
+        },
+        "SOCIETE ARABE INTERNATIONALE DE BANQUE": {
+            "info": {
+                "short_name": "saib",
+                "ToShowName": "SAIBANK",
+                "official_name": "SOCIETE ARABE INTERNATIONALE DE BANQUE",
+                "country": "eg",
+                "swift_code": "SBNKEGCX"
+            },
+            "contact": {
+                "website": "https://saib.com.eg",
+                "customer_service": "",
+                "email": "customer.care@saib.com.eg"
+            },
+            "brand": {
+                "logo": "eg/SAIBANK/logo.png",
+                "icon": "eg/SAIBANK/icon.png",
+                "brand_main_color": "#D14840",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#D14840",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "489303",
+                    "489305"
+                ]
+            }
+        },
+        "SUEZ CANAL BANK": {
+            "info": {
+                "short_name": "scbank",
+                "ToShowName": "Suez Canal Bank",
+                "official_name": "SUEZ CANAL BANK",
+                "country": "eg",
+                "swift_code": "SUCAEGCX"
+            },
+            "contact": {
+                "website": "https://scbank.com.eg",
+                "customer_service": "",
+                "email": "Int-div@scbank.com.eg"
+            },
+            "brand": {
+                "logo": "eg/SuezCanalBank/logo.png",
+                "icon": "eg/SuezCanalBank/icon.png",
+                "brand_main_color": "#1283C3",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#1283C3",
+                "card_color_gradient": "#ffffff",
+                "card_text_color": "#303231"
+            },
+            "data": {
+                "bins": [
+                    "404238",
+                    "404239",
+                    "424263",
+                    "424264"
+                ]
+            }
+        },
+        "EGYPTIAN GULF BANK": {
+            "info": {
+                "short_name": "eg-bank",
+                "ToShowName": "Egyptian Gulf Bank",
+                "official_name": "EGYPTIAN GULF BANK",
+                "country": "eg",
+                "swift_code": "EGGBEGCA"
+            },
+            "contact": {
+                "website": "https://eg-bank.com",
+                "customer_service": "+20 226733118",
+                "email": ""
+            },
+            "brand": {
+                "logo": "eg/EgyptianGulfBank/logo.png",
+                "icon": "eg/EgyptianGulfBank/icon.png",
+                "brand_main_color": "#00C4B3",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#00C4B3",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": [
+                    "402435",
+                    "422979",
+                    "464480",
+                    "464481",
+                    "623078"
+                ]
+            }
+        },
+        "THE BANK OF NEW YORK MELLON": {
+            "info": {
+                "short_name": "bnymellon",
+                "ToShowName": "Bank of New York Mellon",
+                "official_name": "THE BANK OF NEW YORK MELLON",
+                "country": "eg",
+                "swift_code": "IRVTUS3N"
+            },
+            "contact": {
+                "website": "https://bnymellon.com",
+                "customer_service": "",
+                "email": ""
+            },
+            "brand": {
+                "logo": "eg/THEBANKOFNEWYORKMELLON/logo.png",
+                "icon": "eg/THEBANKOFNEWYORKMELLON/icon.png",
+                "brand_main_color": "#F2E157",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#F2E157",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "DEUTSCHE BANK AG": {
+            "info": {
+                "short_name": "db",
+                "ToShowName": "Deutsche Bank AG",
+                "official_name": "DEUTSCHE BANK AG",
+                "country": "eg",
+                "swift_code": ""
+            },
+            "contact": {
+                "website": "https://country.db.com",
+                "customer_service": "",
+                "email": ""
+            },
+            "brand": {
+                "logo": "eg/DeutscheBank/logo.png",
+                "icon": "eg/DeutscheBank/icon.png",
+                "brand_main_color": "#0018A8",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#0018A8",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "INTESA SANPAOLO SPA": {
+            "info": {
+                "short_name": "intesasanpaolo",
+                "ToShowName": "Intesa San Paolo",
+                "official_name": "INTESA SANPAOLO SPA",
+                "country": "eg",
+                "swift_code": ""
+            },
+            "contact": {
+                "website": "https://intesasanpaolo.com",
+                "customer_service": "+20 227356831",
+                "email": "IMI-customercaredso@intesasanpaolo.com"
+            },
+            "brand": {
+                "logo": "eg/IntesaSanPaolo/logo.png",
+                "icon": "eg/IntesaSanPaolo/icon.png",
+                "brand_main_color": "#258900",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#258900",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "JP MORGAN CHASE BANK N.A.": {
+            "info": {
+                "short_name": "jpmorgan",
+                "ToShowName": "J.P. Morgan in Egypt",
+                "official_name": "JP MORGAN CHASE BANK N.A.",
+                "country": "eg",
+                "swift_code": "CHASEGC1"
+            },
+            "contact": {
+                "website": "https://jpmorgan.com",
+                "customer_service": "+20 233312780",
+                "email": "gts.client.services@jpmchase.com"
+            },
+            "brand": {
+                "logo": "eg/jpmorgan/logo.png",
+                "icon": "eg/jpmorgan/icon.png",
+                "brand_main_color": "#503629",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#503629",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "MUFG BANK, LTD.": {
+            "info": {
+                "short_name": "mufg",
+                "ToShowName": "MUFG Bank",
+                "official_name": "MUFG BANK, LTD.",
+                "country": "eg",
+                "swift_code": ""
+            },
+            "contact": {
+                "website": "https://bk.mufg.jp",
+                "customer_service": "",
+                "email": ""
+            },
+            "brand": {
+                "logo": "eg/mufg/logo.png",
+                "icon": "eg/mufg/icon.png",
+                "brand_main_color": "#E60000",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#E60000",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "CREDIT SUISSE": {
+            "info": {
+                "short_name": "credit-suisse",
+                "ToShowName": "Credit Suisse",
+                "official_name": "CREDIT SUISSE",
+                "country": "eg",
+                "swift_code": "CRESEGC1"
+            },
+            "contact": {
+                "website": "https://credit-suisse.com",
+                "customer_service": "",
+                "email": "crmd.mil@ita.mufg.jp"
+            },
+            "brand": {
+                "logo": "eg/CREDITSUISSE/logo.png",
+                "icon": "eg/CREDITSUISSE/icon.png",
+                "brand_main_color": "#183964",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#183964",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            },
+            "data": {
+                "bins": []
+            }
+        },
+        "NATIXIS": {
+            "info": {
+                "short_name": "Natixis",
+                "ToShowName": "Natixis",
+                "official_name": "Natixis",
+                "country": "eg",
+                "swift_code": ""
+            },
+            "contact": {
+                "website": "https://emea.cib.natixis.com",
+                "customer_service": "",
+                "email": ""
+            },
+            "brand": {
+                "logo": "eg/natixis/logo.png",
+                "icon": "eg/natixis/icon.png",
+                "brand_main_color": "#512372",
+                "brand_main_text_color": {
+                    "dark": "#ffffff",
+                    "light": "#000000"
+                },
+                "card_color": "#512372",
+                "card_color_gradient": "#000000",
+                "card_text_color": "#ffffff"
+            }
+        },
+        "NATIONAL BANK OF EGYPT": {
+            "data": {
+                "bins": [
+                    "412784",
+                    "412785",
+                    "429740",
+                    "429741",
+                    "429742",
+                    "429743",
+                    "457376",
+                    "467738",
+                    "470599",
+                    "472845",
+                    "479031",
+                    "483469",
+                    "488953",
+                    "494606",
+                    "494608",
+                    "494609",
+                    "510435",
+                    "510474",
+                    "510497",
+                    "510501",
+                    "510502",
+                    "510504",
+                    "517061",
+                    "517074",
+                    "517716",
+                    "517802",
+                    "517838",
+                    "521624",
+                    "521977",
+                    "523069",
+                    "526403",
+                    "527373",
+                    "527416",
+                    "527422",
+                    "528662",
+                    "529202",
+                    "531163",
+                    "533813",
+                    "544111",
+                    "545075",
+                    "553413",
+                    "559444"
+                ]
+            }
+        },
+        "AHLI UNITED BANK K.S.C.P.": {
+            "data": {
+                "bins": [
+                    "415321",
+                    "419754",
+                    "419755",
+                    "454814"
+                ]
+            }
+        },
+        "FIRST ABU DHABI BANK MISR S.A.E.": {
+            "data": {
+                "bins": [
+                    "403498",
+                    "434941",
+                    "434942",
+                    "517085",
+                    "517089",
+                    "522751",
+                    "524184",
+                    "532664",
+                    "533789",
+                    "536792",
+                    "539890",
+                    "539988",
+                    "544151",
+                    "546799",
+                    "552362",
+                    "556633",
+                    "559467"
+                ]
+            }
+        },
+        "QATAR NATIONAL BANK ALAHLI S.A.E (QNB ALAHLI)": {
+            "data": {
+                "bins": [
+                    "521529",
+                    "531424",
+                    "532437",
+                    "548564"
+                ]
+            }
+        },
+        "NATIONAL BANK OF GREECE, (EGYPT NETWORK)": {
+            "data": {
+                "bins": [
+                    "458479",
+                    "485494",
+                    "485495"
+                ]
+            }
+        },
+        "Natixis": {
+            "data": {
+                "bins": []
+            }
+        }
+    }
+}
